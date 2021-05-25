@@ -1,0 +1,28 @@
+{% extends 'academicis_app/layout.html'%}
+{% load crispy_forms_tags %}
+{% block content %}
+<h5>การจัดการข้อมูล > เพิ่มข้อมูล</h5>
+<br>
+<ul class="nav nav-tabs">
+    <li class="nav-item">
+        <a class="nav-link" href="/academicis/createStudent" style="color: black;">ข้อมูลนักศึกษา</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="/academicis/createCourseUsage" style="color: black;">ข้อมูลรายวิชา</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link active" aria-current="page" style="font-weight: bold;">ข้อมูลช่องทางการรับเข้า</a>
+    </li>
+</ul>
+<br>
+    {% if not form.is_valid %}
+        <div class="m-auto" style="width: 70%;">
+            {% crispy form %}
+        </div>
+    {% else %}
+        <script>
+            alert("บันทึกเรียบร้อย")
+            window.location = "{% url 'create_appType' %}"
+        </script>
+    {% endif %}
+{% endblock %}

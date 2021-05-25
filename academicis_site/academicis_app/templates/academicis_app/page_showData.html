@@ -1,0 +1,139 @@
+{% extends 'academicis_app/layout.html'%}
+{% load static %}
+{% block style %}
+<link href="{% static 'css/table.css' %}" rel="stylesheet">
+<link href="{% static 'css/loading.css' %}" rel="stylesheet">
+{% endblock %}
+{% block content %}
+<h5>การจัดการข้อมูล > อัปโหลดไฟล์ (.csv)</h5>
+
+{% if messages %}
+{% for message in messages %}
+{% if message.tags == "error" %}<br>
+<strong>
+  {{message}}
+</strong>
+{% elif message.tags == "success" %}
+{{message}}
+
+
+{% endif %}
+{% endfor %}
+{% endif %}
+<div id="overlayBackground" style="display: none;">
+  <div id="overlayTextImg">
+    <img id="overlayImg" src="{% static 'images/wait.gif' %}">
+    <br>
+    <div id="overlayText">กำลังโหลด</div>
+  </div>
+</div>
+<form action="{% url 'confirm_file' %}" method="POST" enctype="multipart/form-data">
+  {% csrf_token %}
+  <div style="text-align: right;">
+    <input type="hidden" name="fileDB" value="{{files}}">
+    <input type="hidden" name="tableDB" value="{{nameTable}}">
+    <button class="btn btn-outline-info" type="button" onclick="selected()">เลือกทั้งหมด</button>&nbsp;
+    <button class="btn btn-outline-secondary" type="button" onclick="deselected()">ไม่เลือกทั้งหมด</button>&nbsp;
+    <button class="btn btn-outline-success" type="submit" name="choice" value="confirm" onclick="overlayOn()">ยืนยัน</button>&nbsp;
+    <button class="btn btn-outline-danger" type="submit" name="choice" value="cancel">ยกเลิก</button>
+  </div>
+  <br>
+  <div id="accordion">
+    <div class="card">
+      <div class="card-header" id="headDataNewStudent">
+        <h5>
+          <sub style="font-size: large;">New {{nameTable}} : {{new|length}} rows</sub>
+          <a href="#dataNewStudent" class="btn btn-link collapsed" data-toggle="collapse" style="float: right;"><i
+              class="fa fa-angle-down" style="font-size:24px;"></i></a>
+        </h5>
+      </div>
+      <div id="dataNewStudent" class="collapse" aria-labelledby="headDataNewStudent" data-parent="#accordion">
+        <div class="card-body">
+          <table>
+            <thead>
+              <tr>
+                {% for h in header %}
+                <th>{{h}}</th>
+                {% endfor %}
+                <th></th>
+              </tr>
+            </thead>
+
+            {% for item in new %}
+            <tr>
+              {% for detail in item %}
+              <td>{{detail}}</td>
+              {% endfor %}
+              <td><input type="checkbox" name="check" value="{{item}}"> เพิ่ม</td>
+            </tr>
+            {% endfor %}
+          </table>
+        </div>
+      </div>
+    </div>
+    <br>
+    <div class="card">
+      <div class="card-header" id="headDataUpdate">
+        <h5>
+          <sub style="font-size: large;">Update {{nameTable}} : {{up}} rows</sub>
+          <a href="#dataUpdate" class="btn btn-link collapsed" data-toggle="collapse" style="float: right;"><i
+              class="fa fa-angle-down" style="font-size:24px;"></i></a>
+        </h5>
+      </div>
+      <div id="dataUpdate" class="collapse" aria-labelledby="headDataUpdate" data-parent="#accordion">
+        <div class="card-body">
+          <table>
+            <thead>
+              <tr>
+                <th>ข้อมูล</th>
+                {% for h in header %}
+                <th>{{h}}</th>
+                {% endfor %}
+                <th></th>
+              </tr>
+            </thead>
+
+            {% for i,j in data %}
+            <tr>
+              <td>เดิม <br>
+                <hr><br> ใหม่
+              </td>
+              {% for x in i %}{% for y in j %}
+              {% if forloop.counter == forloop.parentloop.counter %}
+              <td>{{x}} <br>
+                <hr><br> {{y}}
+              </td>
+              {% endif %}
+              {% endfor %} {% endfor %}
+              <td><input type="checkbox" name="check" value="{{j}}"> อัปเดท</td>
+            </tr>
+            {% endfor %}
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+</form>
+
+<script type="text/javascript">
+  function selected() {
+    var ele = document.getElementsByName("check");
+    for (var i = 0; i < ele.length; i++) {
+      if (ele[i].type == "checkbox")
+        ele[i].checked = true;
+    }
+  }
+
+  function deselected() {
+    var ele = document.getElementsByName("check");
+    for (var i = 0; i < ele.length; i++) {
+      if (ele[i].type == "checkbox")
+        ele[i].checked = false;
+    }
+  }
+
+  function overlayOn(){
+    document.querySelector('#overlayBackground').style.display = 'block';
+  }
+</script>
+{% endblock %}

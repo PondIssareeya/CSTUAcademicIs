@@ -1,0 +1,79 @@
+{% extends 'academicis_app/layout.html'%}
+{% load crispy_forms_tags %}
+{% block content %}
+
+    {% if not form.is_valid %}
+
+        {% if type == "student" %}
+            <h5>การจัดการข้อมูล > เรียกดู/แก้ไขข้อมูล > ข้อมูลนักศึกษา</h5><br>
+        {% elif type == "enrollment" %}
+            <h5>การจัดการข้อมูล > เรียกดู/แก้ไขข้อมูล > ข้อมูลการลงทะเบียน & ผลการศึกษา</h5><br>
+        {% elif type == "grade" %}
+            <h5>การจัดการข้อมูล > เรียกดู/แก้ไขข้อมูล > ข้อมูล GPA ของนักศึกษา</h5><br>
+        {% elif type == "state" %}
+            <h5>การจัดการข้อมูล > เรียกดู/แก้ไขข้อมูล > ข้อมูลนักศึกษาสถานะไม่ปกติ</h5><br>
+        {% elif type == "course" %}
+            <h5>การจัดการข้อมูล > เรียกดู/แก้ไขข้อมูล > ข้อมูลรายวิชา</h5><br>
+        {% elif type == "appType" %}
+            <h5>การจัดการข้อมูล > เรียกดู/แก้ไขข้อมูล > ข้อมูลช่องทางการรับเข้า</h5><br>
+        {% elif type == "plan" %}
+            <h5>การจัดการข้อมูล > เรียกดู/แก้ไขข้อมูล > ข้อมูลแผนการรับนักศึกษา</h5><br>
+        {% endif %}
+
+        <div class="m-auto" style="width: 70%;">
+            {% crispy form %}
+        </div>
+    
+        <!-- <form method="POST" class="m-auto" style="width: 70%;">
+            {% csrf_token %}
+            {% crispy form %} -->
+            <!-- {{form|crispy}} -->
+            <!-- <p class="mt-4 text-center"><button type="submit" class="btn btn-outline-success" style="width: 15%;">บันทึก</button></p> -->
+        <!-- </form> -->
+        <!-- <a href="/academicis/editStudent">
+            <p class="mt-4 text-center"><button class="btn btn-outline-danger" style="width: 15%;">ยกเลิก</button></p>
+        </a>  -->
+    {% else %}
+        {% if type == "student" %}
+        <script>
+            alert("บันทึกเรียบร้อย")
+            window.location = "{% url 'edit_student' %}"
+        </script>
+        {% elif type == "enrollment" %}
+        <script>
+            alert("บันทึกเรียบร้อย")
+            window.location = "{% url 'edit_enrollment' %}"
+        </script>
+        {% elif type == "grade" %}
+        <script>
+            alert("บันทึกเรียบร้อย")
+            window.location = "{% url 'edit_grade' %}"
+        </script>
+        {% elif type == "state" %}
+        <script>
+            alert("บันทึกเรียบร้อย")
+            window.location = "{% url 'edit_state' %}"
+        </script>
+        {% elif type == "course" %}
+        <script>
+            alert("บันทึกเรียบร้อย")
+            window.location = "{% url 'edit_courseUsage' %}"
+        </script>
+        {% elif type == "plan" %}
+        <script>
+            alert("บันทึกเรียบร้อย")
+            window.location = "{% url 'edit_plan' %}"
+        </script>
+        {% elif type == "appType" %}
+        <script>
+            alert("บันทึกเรียบร้อย")
+            window.location = "{% url 'edit_appType' %}"
+        </script>
+        {% endif %}
+        <!-- <script>
+            alert("บันทึกเรียบร้อย")
+            window.location = "{% url 'edit_student' %}"
+        </script> -->
+        <!-- <h5>บันทึกเรียบร้อย</h5> -->
+    {% endif %}
+{% endblock %}

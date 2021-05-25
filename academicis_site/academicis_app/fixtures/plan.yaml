@@ -1,0 +1,193 @@
+﻿#File created by Easy Data Transform v1.8.1 at 2021-01-16 19: 25: 17.
+
+- model: academicis_app.Applicant_Plan
+  pk: 1
+  fields: 
+   year: 2561
+   major: CSTU-Reg RS
+   plan: 70
+   actual: 0
+   t1_plan: 10
+   t1_actual: 0
+   t2_plan: 0
+   t2_actual: 0
+   t3_plan: 25
+   t3_actual: 0
+   t4_plan: 30
+   t4_actual: 0
+
+- model: academicis_app.Applicant_Plan
+  pk: 2
+  fields: 
+   year: 2562
+   major: CSTU-Reg RS
+   plan: 70
+   actual: 0
+   t1_plan: 10
+   t1_actual: 0
+   t2_plan: 0
+   t2_actual: 0
+   t3_plan: 30
+   t3_actual: 0
+   t4_plan: 30
+   t4_actual: 0
+
+- model: academicis_app.Applicant_Plan
+  pk: 3
+  fields: 
+   year: 2563
+   major: CSTU-Reg RS
+   plan: 70
+   actual: 0
+   t1_plan: 10
+   t1_actual: 0
+   t2_plan: 0
+   t2_actual: 0
+   t3_plan: 40
+   t3_actual: 0
+   t4_plan: 20
+   t4_actual: 0
+
+- model: academicis_app.Applicant_Plan
+  pk: 4
+  fields: 
+   year: 2564
+   major: CSTU-Reg RS
+   plan: 70
+   actual: 0
+   t1_plan: 10
+   t1_actual: 0
+   t2_plan: 0
+   t2_actual: 0
+   t3_plan: 40
+   t3_actual: 0
+   t4_plan: 20
+   t4_actual: 0
+
+- model: academicis_app.Applicant_Plan
+  pk: 5
+  fields: 
+   year: 2561
+   major: CSTU-Spe RS
+   plan: 70
+   actual: 0
+   t1_plan: 15
+   t1_actual: 0
+   t2_plan: 0
+   t2_actual: 0
+   t3_plan: 20
+   t3_actual: 0
+   t4_plan: 35
+   t4_actual: 0
+
+- model: academicis_app.Applicant_Plan
+  pk: 6
+  fields: 
+   year: 2562
+   major: CSTU-Spe RS
+   plan: 70
+   actual: 0
+   t1_plan: 15
+   t1_actual: 0
+   t2_plan: 0
+   t2_actual: 0
+   t3_plan: 20
+   t3_actual: 0
+   t4_plan: 35
+   t4_actual: 0
+
+- model: academicis_app.Applicant_Plan
+  pk: 7
+  fields: 
+   year: 2563
+   major: CSTU-Spe RS
+   plan: 70
+   actual: 0
+   t1_plan: 10
+   t1_actual: 0
+   t2_plan: 0
+   t2_actual: 0
+   t3_plan: 40
+   t3_actual: 0
+   t4_plan: 20
+   t4_actual: 0
+
+- model: academicis_app.Applicant_Plan
+  pk: 8
+  fields: 
+   year: 2564
+   major: CSTU-Spe RS
+   plan: 70
+   actual: 0
+   t1_plan: 10
+   t1_actual: 0
+   t2_plan: 0
+   t2_actual: 0
+   t3_plan: 40
+   t3_actual: 0
+   t4_plan: 20
+   t4_actual: 0
+
+- model: academicis_app.Applicant_Plan
+  pk: 9
+  fields: 
+   year: 2561
+   major: CSTU-Reg LP
+   plan: 60
+   actual: 0
+   t1_plan: 10
+   t1_actual: 0
+   t2_plan: 20
+   t2_actual: 0
+   t3_plan: 10
+   t3_actual: 0
+   t4_plan: 20
+   t4_actual: 0
+
+- model: academicis_app.Applicant_Plan
+  pk: 10
+  fields: 
+   year: 2562
+   major: CSTU-Reg LP
+   plan: 40
+   actual: 0
+   t1_plan: 10
+   t1_actual: 0
+   t2_plan: 20
+   t2_actual: 0
+   t3_plan: 5
+   t3_actual: 0
+   t4_plan: 5
+   t4_actual: 0
+
+- model: academicis_app.Applicant_Plan
+  pk: 11
+  fields: 
+   year: 2563
+   major: CSTU-Reg LP
+   plan: 40
+   actual: 0
+   t1_plan: 10
+   t1_actual: 0
+   t2_plan: 20
+   t2_actual: 0
+   t3_plan: 5
+   t3_actual: 0
+   t4_plan: 5
+   t4_actual: 0
+
+- model: academicis_app.Applicant_Plan
+  pk: 12
+  fields: 
+   year: 2564
+   major: CSTU-Reg LP
+   plan: 40
+   actual: 0
+   t1_plan: 25
+   t1_actual: 0
+   t2_plan: 10
+   t2_actual: 0
+   t3_plan: 4
+   t3_actual: 0
+   t4_plan: 1
+   t4_actual: 0

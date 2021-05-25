@@ -1,0 +1,71 @@
+﻿#File created by Easy Data Transform v1.8.1 at2021-04-27 17: 42: 12.
+
+- model: academicis_app.ApplicantType
+  pk: 1
+  fields: 
+   name: Admissions
+
+- model: academicis_app.ApplicantType
+  pk: 2
+  fields: 
+   name: โครงการรับตรง
+
+- model: academicis_app.ApplicantType
+  pk: 3
+  fields: 
+   name: โครงการปริญญาตรีภาคพิเศษ Admissions
+
+- model: academicis_app.ApplicantType
+  pk: 4
+  fields: 
+   name: โครงการปริญญาตรีภาคพิเศษ สาขาศาสตร์คอมพิวเตอร์
+
+- model: academicis_app.ApplicantType
+  pk: 5
+  fields: 
+   name: Admissions มธ.ศูนย์ลำปาง
+
+- model: academicis_app.ApplicantType
+  pk: 6
+  fields: 
+   name: โครงการรับนักศึกษาเข้าศึกษาในมหาวิทยาลัยธรรมศาสตร์ ศูนย์ลำปาง ระดับปริญญาตรี
+
+- model: academicis_app.ApplicantType
+  pk: 7
+  fields: 
+   name: โครงการนักศึกษาเรียนดีในเขตเมือง
+
+- model: academicis_app.ApplicantType
+  pk: 8
+  fields: 
+   name: นักเรียนชาวไทยภูเขา
+
+- model: academicis_app.ApplicantType
+  pk: 9
+  fields: 
+   name: โครงการมหาดไทย
+
+- model: academicis_app.ApplicantType
+  pk: 10
+  fields: 
+   name: โครงการธรรมศาสตร์ช้างเผือก
+
+- model: academicis_app.ApplicantType
+  pk: 11
+  fields: 
+   name: โครงการนักศึกษาผู้พิการ
+
+- model: academicis_app.ApplicantType
+  pk: 12
+  fields: 
+   name: โครงการนักเรียนเรียนดีภาคกลาง
+
+- model: academicis_app.ApplicantType
+  pk: 13
+  fields: 
+   name: โครงการนักศึกษาผู้มีความสามารถดีเด่นในการกีฬา
+
+- model: academicis_app.ApplicantType
+  pk: 14
+  fields: 
+   name: โครงการคัดเลือกนักเรียนคณิตศาสตร์และวิทยาศาสตร์โอลิมปิกฯ

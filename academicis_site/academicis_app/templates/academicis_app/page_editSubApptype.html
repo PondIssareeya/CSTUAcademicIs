@@ -1,0 +1,53 @@
+{% extends 'academicis_app/layout.html'%}
+
+{% block content %}
+<h5>การจัดการข้อมูล > เรียกดู/แก้ไขข้อมูล</h5>
+<br>
+<ul class="nav nav-tabs">
+    <li class="nav-item">
+        <a class="nav-link" href="/academicis/editStudent" style="color: black;">ข้อมูลนักศึกษา</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="/academicis/editEnrollment" style="color: black;">ข้อมูลการลงทะเบียน & ผลการศึกษา</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="/academicis/editGrade" style="color: black;">ข้อมูล GPA</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="/academicis/editState" style="color: black;">ข้อมูลนักศึกษาสถานะไม่ปกติ</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="/academicis/editCourseUsage" style="color: black;">ข้อมูลรายวิชา</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link active" aria-current="page" style="font-weight: bold;">รายละเอียดการรับเข้า</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="/academicis/editPlan" style="color: black;">ข้อมูลแผนการรับนักศึกษา</a>
+    </li>
+</ul>
+<br>
+    <form action="{% url 'edit_appType' %}">
+        {{form.app_type.label}}
+        &nbsp;
+        {{form.app_type}}
+        <button>ค้นหา</button>
+    </form>
+    <br>
+    <table>
+        <thead>
+            <tr>
+                <th style="width: 60%;">ช่องทางที่เข้าศึกษา</th>
+                <th style="width: 20%;">เพิ่มเติม</th>
+                <th style="width: 20%;"></th>
+            </tr>
+        </thead>
+        {% for x in data %}
+            <tr>
+                <td>{{x.applicant}}</td>
+                <td>{{x.name}}</td>
+                <td><a href="{% url 'update_appType' id=x.id %}">แก้ไข</a></td>
+            </tr>
+        {% endfor %}
+    </table>
+{% endblock %}

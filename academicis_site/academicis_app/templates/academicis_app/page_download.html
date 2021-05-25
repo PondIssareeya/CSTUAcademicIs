@@ -1,0 +1,228 @@
+{% extends 'academicis_app/layout.html'%}
+{% load static %}
+{% block content %}
+<h5>การจัดการข้อมูล > ดาวน์โหลดเทมเพลต</h5>
+<br>
+
+<!--type 1-->
+<div class="card mb-3">
+  <div class="row g-0">
+    <div class="col-md-2" style="margin: auto auto;display: block;left: 4%;">
+      <img src="{% static 'images/student-card.png' %}"style="width: 50%;">
+    </div>
+    <div class="col-md-10">
+      <div class="card-body" style="left: 20%;">
+        <h5 class="card-title">เทมเพลตข้อมูลนักศึกษา</h5>
+        <p class="card-text"><strong>ชื่อโครงการ :</strong> ปริญญาตรี โครงการปกติ, ปริญญาตรี โครงการพิเศษ, ปริญญาตรี โครงการปกติ ศูนย์ลำปาง<br></p>
+        <a href="{% url 'download_student' %}">
+          <button class="btn btn-outline-info">ดาวน์โหลด Student</button>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="card mb-3">
+  <div class="row g-0">
+    <div class="col-md-2" style="margin: auto auto;display: block;left: 4%;">
+      <img src="{% static 'images/enroll.png' %}"style="width: 50%;">
+    </div>
+    <div class="col-md-10">
+      <div class="card-body" style="left: 20%;">
+        <h5 class="card-title">เทมเพลตข้อมูลการลงทะเบียนเรียนของนักศึกษา</h5>
+        <a href="{% url 'download_enrollment' %}">
+          <button class="btn btn-outline-info">ดาวน์โหลด Enrollment</button>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="card mb-3">
+  <div class="row g-0">
+    <div class="col-md-2" style="margin: auto auto;display: block;left: 4%;">
+      <img src="{% static 'images/score.png' %}"style="width: 50%">
+    </div>
+    <div class="col-md-10">
+      <div class="card-body" style="left: 20%;">
+        <h5 class="card-title">เทมเพลตข้อมูลผลการเรียนแต่ละภาคการศึกษา</h5>
+        <a href="{% url 'download_grade' %}">
+          <button class="btn btn-outline-info">ดาวน์โหลด Grade</button>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="card mb-3">
+  <div class="row g-0">
+    <div class="col-md-2" style="margin: auto auto;display: block;left: 4%;">
+      <img src="{% static 'images/letter.png' %}"style="width: 50%">
+    </div>
+    <div class="col-md-10">
+      <div class="card-body" style="left: 20%;">
+        <h5 class="card-title">เทมเพลตข้อมูลนักศึกษาสถานะไม่ปกติ</h5>
+        <a href="{% url 'download_state' %}">
+          <button class="btn btn-outline-info">ดาวน์โหลด State</button>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="card mb-3">
+  <div class="row g-0">
+    <div class="col-md-2" style="margin: auto auto;display: block;left: 4%;">
+      <img src="{% static 'images/bookshelf.png' %}"style="width: 50%">
+    </div>
+    <div class="col-md-10">
+      <div class="card-body" style="left: 20%;">
+        <h5 class="card-title">เทมเพลตหลักสูตร & รายวิชา</h5>
+        <p class="card-text"><strong>ประเภทวิชา :</strong> วิชาบังคับ C, วิชาบังคับร่วม, วิชาบังคับเอก, วิชาเลือก<br></p>
+        <a href="{% url 'download_course' %}">
+          <button class="btn btn-outline-info">ดาวน์โหลด Course</button>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="card mb-3">
+  <div class="row g-0">
+    <div class="col-md-2" style="margin: auto auto;display: block;left: 4%;">
+      <img src="{% static 'images/education.png' %}"style="width: 50%">
+    </div>
+    <div class="col-md-10">
+      <div class="card-body" style="left: 20%;">
+        <h5 class="card-title">เทมเพลตรายชื่อช่องทางการรับเข้าศึกษา</h5>
+        <a href="{% url 'download_appType' %}">
+          <button class="btn btn-outline-info">ดาวน์โหลด Applicant Type</button>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="card mb-3">
+  <div class="row g-0">
+    <div class="col-md-2" style="margin: auto auto;display: block;left: 4%;">
+      <img src="{% static 'images/graph.png' %}"style="width: 50%">
+    </div>
+    <div class="col-md-10">
+      <div class="card-body" style="left: 20%;">
+        <h5 class="card-title">เทมเพลตแผนการรับเข้านักศึกษา</h5>
+        <p class="card-text"><strong>ชื่อโครงการ :</strong> CSTU-Reg RS, CSTU-Spe RS, CSTU-Reg LP<br></p>
+        <a href="{% url 'download_plan' %}">
+          <button class="btn btn-outline-info">ดาวน์โหลด Plan</button>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!--type 2-->
+<!-- <div class="row row-cols-1 row-cols-md-5 g-5">
+  <div class="col">
+    <div class="card h-100">
+      
+      <div class="card-body">
+        <img src="{% static 'images/student-card.png' %}" class="card-img-top"
+        style="margin: auto auto;display: block; width:30%; height: 20%;">
+        <hr>
+        <h5 class="card-title">เทมเพลตข้อมูลนักศึกษา</h5>
+        <p>
+          <strong>ชื่อโครงการ :</strong> ปริญญาตรี โครงการปกติ, ปริญญาตรี โครงการพิเศษ, ปริญญาตรี โครงการปกติ ศูนย์ลำปาง<br>
+        </p>
+        <a href="{% url 'download_student' %}">
+          <button class="btn btn-outline-info">ดาวน์โหลด Student</button>
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100">
+      <div class="card-body">
+        <img src="{% static 'images/enroll.png' %}" class="card-img-top"
+        style="margin: auto auto;display: block; width:30%; height: 20%;">
+        <hr>
+        <h5 class="card-title">เทมเพลตข้อมูลการลงทะเบียนเรียนของนักศึกษา</h5>
+        <a href="{% url 'download_enrollment' %}">
+          <button class="btn btn-outline-info">ดาวน์โหลด Enrollment</button>
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100">
+      
+      <div class="card-body">
+        <img src="{% static 'images/score.png' %}" class="card-img-top"
+        style="margin: auto auto;display: block; width:30%; height: 20%;">
+        <hr>
+        <h5 class="card-title">เทมเพลตข้อมูลผลการเรียนแต่ละภาคการศึกษา</h5>
+        <a href="{% url 'download_grade' %}">
+          <button class="btn btn-outline-info">ดาวน์โหลด Grade</button>
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100">
+      
+      <div class="card-body">
+        <img src="{% static 'images/letter.png' %}" class="card-img-top"
+          style="margin: auto auto;display: block; width:30%; height: 20%;">
+        <hr>
+        <h5 class="card-title">เทมเพลตข้อมูลนักศึกษาสถานะไม่ปกติ</h5>
+        <a href="{% url 'download_state' %}">
+          <button class="btn btn-outline-info">ดาวน์โหลด State</button>
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100">
+    
+      <div class="card-body">
+        <img src="{% static 'images/bookshelf.png' %}" class="card-img-top"
+          style="margin: auto auto;display: block; width:30%; height: 20%;">
+        <hr>
+        <h5 class="card-title">เทมเพลตหลักสูตร & รายวิชา</h5>
+        <p>
+          <strong>ประเภทวิชา :</strong> วิชาบังคับ C, วิชาบังคับร่วม, วิชาบังคับเอก, วิชาเลือก<br>
+        </p>
+        <a href="{% url 'download_course' %}">
+          <button class="btn btn-outline-info">ดาวน์โหลด Course</button>
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100">
+      
+      <div class="card-body">
+        <img src="{% static 'images/education.png' %}" class="card-img-top"
+          style="margin: auto auto;display: block; width:30%; height: 20%;">
+        <hr>
+        <h5 class="card-title">เทมเพลตรายชื่อช่องทางการรับเข้าศึกษา</h5>
+        <a href="{% url 'download_appType' %}">
+          <button class="btn btn-outline-info">ดาวน์โหลด Applicant Type</button>
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100">
+      
+      <div class="card-body">
+        <img src="{% static 'images/graph.png' %}" class="card-img-top"
+          style="margin: auto auto;display: block; width:30%; height: 20%;">
+        <hr>
+        <h5 class="card-title">เทมเพลตแผนการรับเข้านักศึกษา</h5>
+        <p>
+          <strong>ชื่อโครงการ :</strong> CSTU-Reg RS, CSTU-Spe RS, CSTU-Reg LP<br>
+        </p>
+        <a href="{% url 'download_plan' %}">
+          <button class="btn btn-outline-info">ดาวน์โหลด Plan</button>
+        </a>
+      </div>
+    </div>
+  </div>
+</div> -->
+
+
+{% endblock %}

@@ -1,0 +1,63 @@
+{% extends 'academicis_app/layout.html'%}
+{% load crispy_forms_tags %}
+{% block content %}
+<h5>การจัดการข้อมูล > เพิ่มข้อมูล</h5>
+<br>
+<ul class="nav nav-tabs">
+    <li class="nav-item">
+        <a class="nav-link active" aria-current="page" style="font-weight: bold;">ข้อมูลนักศึกษา</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="/academicis/createCourseUsage" style="color: black;">ข้อมูลรายวิชา</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="/academicis/createApptype" style="color: black;">ข้อมูลช่องทางการรับเข้า</a>
+    </li>
+</ul>
+<br>
+    {% if messages %}
+        {% for message in messages %} 
+            {% if message.tags == "error" %}
+                <script>alert("{{message}}")</script>
+            {% endif %}
+        {% endfor %}
+    {% endif %}
+
+    {% if not form.is_valid %}
+        <!-- <div class="m-auto" style="width: 70%;">
+            {% crispy form %}
+        </div> -->
+        <form method="post" id="personForm" data-subapptype-url="{% url 'ajax_load_subapptype' %}">
+            {% csrf_token %}
+            <div class="m-auto" style="width: 70%;">
+                {% crispy form %}
+            </div>
+        </form>
+        
+        <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+        <script>
+            $("#id_applicanttype_name").change(function () {
+                const url = $("#personForm").attr("data-subapptype-url");
+                const applicanttypeId = $(this).val();
+        
+                $.ajax({
+                    url: url,   
+                    data: {
+                        'applicanttype_id': applicanttypeId
+                    },
+                    success: function (data) {
+                        $("#id_applicanttype_name_morespecific").html(data);
+                    }
+                });
+        
+            });
+        </script>
+    {% else %}
+    
+        <script>
+            // jAlert('This is a custom alert box', 'Alert Dialog');
+            alert("บันทึกเรียบร้อย")
+            window.location = "{% url 'create_student' %}"
+        </script>
+    {% endif %}
+{% endblock %}

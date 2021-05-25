@@ -1,0 +1,22 @@
+<style>
+    table {
+      font-family: arial, sans-serif;
+      border-collapse: collapse;
+    }
+    
+    td, th {
+      border: 2px solid #5dcfd3;
+      text-align: center;
+      padding: 8px;
+    }
+    
+    tr:nth-child(even) {
+      background-color: #dddddd;
+    }
+    </style>
+
+<h1>List Students</h1>
+
+    {% for s in students %}
+    <p>{{s}}</p>
+    {% endfor %}

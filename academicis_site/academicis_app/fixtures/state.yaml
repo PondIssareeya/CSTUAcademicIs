@@ -1,0 +1,465 @@
+﻿# File created by Easy Data Transform v1.8.1 at 2021-02-08 17:14:04.
+
+- model: academicis_app.State_Inactive
+  pk: 1
+  fields: 
+   student_id: a8b37ff29a5309f578de5daeede5eea097259bedb89668526c8add2ba74b45d3
+   student_name_surname: cdc2f99dbaa78d0bba7bf848e5b7f2550627a78b7554b7d6a4e3c65d54840e51
+   state_not_normal: ไม่จดทะเบียนศึกษารายวิชาภาค
+   grade: 1.6
+
+- model: academicis_app.State_Inactive
+  pk: 2
+  fields: 
+   student_id: 350852fb204d4e75dc601f8d4fab54f18a725b223ffe20094ca358ecdd690aac
+   student_name_surname: 2f82a64efacbd9cb6769961af9c986c2169e12bbe770b9e2cd04fa68da0d5fee
+   state_not_normal: ลาออก
+   grade: 1.92
+
+- model: academicis_app.State_Inactive
+  pk: 3
+  fields: 
+   student_id: 9e0fce5304b0b87da73f586f50bf39d9f3df3d08e723bbaeee392f383e6be845
+   student_name_surname: 69c3c09277dacbdc5778c44432e71b225a7e786899081545f5997184d5dddc1b
+   state_not_normal: ไม่จดทะเบียนศึกษารายวิชาภาค
+   grade: 2.33
+
+- model: academicis_app.State_Inactive
+  pk: 4
+  fields: 
+   student_id: dbdf32cba2147ef6c890f9ee90633b5792213e6e01de8dcc799d63402871a139
+   student_name_surname: 829a0ca16f0cfe2cc3403adb474bb11419e0034d2b31dcaec6fcc92fd29dad2a
+   state_not_normal: ลาออก
+   grade: 2.75
+
+- model: academicis_app.State_Inactive
+  pk: 5
+  fields: 
+   student_id: 506ee1fdde25e3171c69b93112833a91d27ef86b210fe2d790c405cf8a90d12f
+   student_name_surname: 226af3a6214300f58e8b17a6bee432491fe08843ce2c386217b5658894f1d74d
+   state_not_normal: ลาออก
+   grade: 2.46
+
+- model: academicis_app.State_Inactive
+  pk: 6
+  fields: 
+   student_id: e7a3d3b1818f78341c81bdf4957cc8852c97a2d7abb708543f47c2c125c69df4
+   student_name_surname: 5f4197744fd87553f5729bf680dce89834ae414d7ab5261ae859cd37e5b46004
+   state_not_normal: ลาออก
+   grade: 2.61
+
+- model: academicis_app.State_Inactive
+  pk: 7
+  fields: 
+   student_id: f678cd177009832beb570c5b3cbfc9146a0e25ce7f0b646ac49361611fd555a0
+   student_name_surname: 41966e9b22a3d3d75529a201c0f97b138057e0bbb6f17e88a5b1e62d00e64c82
+   state_not_normal: ลาออก
+   grade: 0
+
+- model: academicis_app.State_Inactive
+  pk: 8
+  fields: 
+   student_id: dec6c3fae6a248a248bf6ff32ce46bb651384f41c53943341e5073b32bc40b08
+   student_name_surname: f906d26d9522f00d949880abb6ecdb969e07a9dc486550fb9bd15e0b52afceaf
+   state_not_normal: ลาออก
+   grade: 1.34
+
+- model: academicis_app.State_Inactive
+  pk: 9
+  fields: 
+   student_id: 26f0a56605ab36b7131c5dcd2e43dacf4dc51e89e2fba01e91388b61969be1ed
+   student_name_surname: 2703768c14151f790cd6526622739c13afb7e50a0b280dc2accfedb80d2fa499
+   state_not_normal: ลาออก
+   grade: 1.63
+
+- model: academicis_app.State_Inactive
+  pk: 10
+  fields: 
+   student_id: 57dbdc4b660442edc1147f24a923b97e0f77fd801fbb4192b4598a4753129553
+   student_name_surname: f87e18c6dff47eecbabbae6934973f2f172be06a722100aa9d25c86bbbfe1a53
+   state_not_normal: ไม่จดทะเบียนศึกษารายวิชาภาค
+   grade: 1.77
+
+- model: academicis_app.State_Inactive
+  pk: 11
+  fields: 
+   student_id: ac804234d90e424b120070d322a8e17bf15de2059bb523fc37e3163bb07dde2c
+   student_name_surname: 54ab89f6676c919588a70f316157bb61fbc493fc56d9dd6867efaf0920889fd2
+   state_not_normal: ลาออก
+   grade: 1.87
+
+- model: academicis_app.State_Inactive
+  pk: 12
+  fields: 
+   student_id: 3383f4fcf0878c0e8f4c41a2be884021aaf4b08dd1c82918c3bec12a66b8b933
+   student_name_surname: 813da22e4b9e2a22b6746247889a337a07811d26d96e302b7aae867cd9edc795
+   state_not_normal: ค่าระดับเฉลี่ยต่ำกว่า 1.50 เมื่อสิ้นภาค
+   grade: 1
+
+- model: academicis_app.State_Inactive
+  pk: 13
+  fields: 
+   student_id: 1ba4a279ab43c868b9b59f9c4c0e6070ce8112d11584fc39667be04cac015796
+   student_name_surname: 61ed0c53c561003a08f28ece3a71aef6a6159fa9eb4e22ced6b4db9462005e2c
+   state_not_normal: ไม่จดทะเบียนศึกษารายวิชาภาค
+   grade: 1.75
+
+- model: academicis_app.State_Inactive
+  pk: 14
+  fields: 
+   student_id: 812ef98dab3f4a15b9641e45d7fa0b37f3263f7300ebb3787b3a06e60b53787d
+   student_name_surname: b6f58cfefff8b49d5df6a77dab8a7b86419c6389f3112730909c8af96ab570dc
+   state_not_normal: ลาออก
+   grade: 1.71
+
+- model: academicis_app.State_Inactive
+  pk: 15
+  fields: 
+   student_id: c258a7a695ae2b087359fc9a58cff5396c618b1ddf7f5b7af3719168e9dc1307
+   student_name_surname: fd3f7560a2e06bcbac1130bd9a2563fba432ffef5727a1b90dcddf9a75a70aac
+   state_not_normal: ไม่จดทะเบียนศึกษารายวิชาภาค
+   grade: 2.08
+
+- model: academicis_app.State_Inactive
+  pk: 16
+  fields: 
+   student_id: b15e418dc700c1b944424cae79b9fe2fec487df0bd70720e7cce37df6f0c3fcd
+   student_name_surname: cd8f38702f8d3d4ddd8cf1d1ef7231269f7ece93d34683eceead6e33a7178039
+   state_not_normal: ลาออก
+   grade: 0
+
+- model: academicis_app.State_Inactive
+  pk: 17
+  fields: 
+   student_id: b1b3e0b8b3df551377984a25949eab6d1b51c6ae2d2e2a148a7be6435e95e698
+   student_name_surname: 0268884b48c7657670eaa782ed860f5aac96f7504d714889579aa6cfa9d76259
+   state_not_normal: ลาออก
+   grade: 2.23
+
+- model: academicis_app.State_Inactive
+  pk: 18
+  fields: 
+   student_id: 463a9b6c84fba282e023152b3bb79a39c09d81918e6b651df5fe49ecc7df0414
+   student_name_surname: 5f41cec6d76b2a5c42a55a356dd1c97c6eab1c51107bb590c18706a67d8602aa
+   state_not_normal: ไม่จดทะเบียนศึกษารายวิชาภาค
+   grade: 0
+
+- model: academicis_app.State_Inactive
+  pk: 19
+  fields: 
+   student_id: 8806965f344ef21a976731fec9f661f4ee8a949db38f9f520dc5335e9b86a8a7
+   student_name_surname: 6337045892b83b0723b07302941fae95f0642e97d1745b093459080afc21da2c
+   state_not_normal: ลาออก
+   grade: 2.83
+
+- model: academicis_app.State_Inactive
+  pk: 20
+  fields: 
+   student_id: 1c3ccc821660398beb1b1798cc456a19621e20ab0f2978f05e2716da2f5d0d91
+   student_name_surname: 4bd68c30741e76fb8b6c47b78af21ae30447ef85726a1da444729ee57ddbff60
+   state_not_normal: ลาออก
+   grade: 2.58
+
+- model: academicis_app.State_Inactive
+  pk: 21
+  fields: 
+   student_id: 224db022913269ab3802cada8e9ca38991e10ad5cd25f2b86ca3be3e90f52b75
+   student_name_surname: f416c35d83e18063c1edac62d99f1380a2ef0f0a077fd7fba8f376f37dacba50
+   state_not_normal: ลาออก
+   grade: 0
+
+- model: academicis_app.State_Inactive
+  pk: 22
+  fields: 
+   student_id: 5ee2dfd120a922f81c9139724b2f55a0ff3728a918a053f9a6c13beb7507887b
+   student_name_surname: 91e92bad8ee7ecdd1e6f118aa05b73bc7116db044ff73deaeb24b5edee0b84e0
+   state_not_normal: ไม่จดทะเบียนศึกษารายวิชาภาค
+   grade: 2.25
+
+- model: academicis_app.State_Inactive
+  pk: 23
+  fields: 
+   student_id: abdce8db8935f6e3876300db66c49bd84ea59af47b02e968df814976685dddc7
+   student_name_surname: a7573f94fd5d4b3702389848207d6c209181185cb5a11fca25d6f2fefb9c5d1f
+   state_not_normal: ลาออก
+   grade: 3.1
+
+- model: academicis_app.State_Inactive
+  pk: 24
+  fields: 
+   student_id: 9c90f38973a65d1d40cca763355375cc97b293ec92d5b9b477df4f83bff41c22
+   student_name_surname: 1709d105967025ff590b94bbfec99d5d00737ee89b12d96aaff2072123a9e5f2
+   state_not_normal: ลาออก
+   grade: 0
+
+- model: academicis_app.State_Inactive
+  pk: 25
+  fields: 
+   student_id: 36526c28b1cfa422d97a545f12cf575d32f340b31d06fad937e2405058ddb8d8
+   student_name_surname: 1e7dd296e3f4d47eb9af41cbf8384482a1d869d8bb3d587cc98d59ab14eea402
+   state_not_normal: ลาออก
+   grade: 0
+
+- model: academicis_app.State_Inactive
+  pk: 26
+  fields: 
+   student_id: eef0f014b5b2f4b9230b359a03208acdb43721d8bf4b0c9ef8b85194d2a95e4b
+   student_name_surname: 03836ef07554a377b67dfd23c3a33a852686eb4d4a37c1b446cc52f3aa6f191b
+   state_not_normal: ไม่จดทะเบียนศึกษารายวิชาภาค
+   grade: 0.33
+
+- model: academicis_app.State_Inactive
+  pk: 27
+  fields: 
+   student_id: 23b3b8df7f2a76f6c645827c18967766c8c68c9209c4ae79f1f0949c968151ce
+   student_name_surname: e43a30b707d5186e7b905029ae2d516ed1f274a8def83215c0fbf14a69f628b9
+   state_not_normal: ลาออก
+   grade: 2.73
+
+- model: academicis_app.State_Inactive
+  pk: 28
+  fields: 
+   student_id: 520071d33588bbcfae7e11bf7249337f8b565636c46c830d18fd3ef1c50c2a05
+   student_name_surname: cf2d04889723a3f33395d5c81391ec315d1eb6bf129a19b8501d3d2ce1c5251a
+   state_not_normal: ลาออก
+   grade: 3.19
+
+- model: academicis_app.State_Inactive
+  pk: 29
+  fields: 
+   student_id: bcad0df33e34df6833cec1839b6750961081fdd3a33c40fd6e295fff44712fb1
+   student_name_surname: 754bc3ec58f0d5c0a5a28cf401c3e29f553b8ec40fc16d2ae41416e46c8ff180
+   state_not_normal: ลาออก
+   grade: 0
+
+- model: academicis_app.State_Inactive
+  pk: 30
+  fields: 
+   student_id: 33c8a62bc930528197e32689fc117e71b01b829f41574d9c5937b87767219f4d
+   student_name_surname: ff859d5a4d4cef564a364f3e4dc620cafae8a8a7287fde6fb898db9a8444b2d4
+   state_not_normal: ลาออก
+   grade: 0
+
+- model: academicis_app.State_Inactive
+  pk: 31
+  fields: 
+   student_id: 1b2bcd85b8bba4fcf6b53352fa7ae6bfcf05533a08179961329d05f7819e784a
+   student_name_surname: e7ea447f28692ff85909772a9e27f61c07fa369ff26860b4cdae5d885f141c63
+   state_not_normal: ลาออก
+   grade: 0
+
+- model: academicis_app.State_Inactive
+  pk: 32
+  fields: 
+   student_id: 73d94457787463ebcf06eeab4cb8629e9dcbe6ce75379b6bfb1a4c4847cb853a
+   student_name_surname: 1efc7bd7aa02959ed2aeceba130821b7649e3e72db07e5c0dc94b8b640c4996a
+   state_not_normal: ไม่จดทะเบียนศึกษารายวิชาภาค
+   grade: 1.43
+
+- model: academicis_app.State_Inactive
+  pk: 33
+  fields: 
+   student_id: 48c70bffd5851af646ca3d0a3c86230e76f849ad7f40b39b5c2a6cb6028cf0df
+   student_name_surname: 457e3354933d1fc5739c4d9d37cdf5c738206fe10f1a29ea622355f6ea009c74
+   state_not_normal: ไม่จดทะเบียนศึกษารายวิชาภาค
+   grade: 0.56999999999999995
+
+- model: academicis_app.State_Inactive
+  pk: 34
+  fields: 
+   student_id: 4acb5771ea5b8810731c425fa235a9d0d0901c2bab5878f2afad15af589b8c4b
+   student_name_surname: 40605fd5e5e33a0d0ddf61e7e3c1f3d80016bc0855f830860faa4d2a62992e80
+   state_not_normal: ไม่จดทะเบียนศึกษารายวิชาภาค
+   grade: 1.07
+
+- model: academicis_app.State_Inactive
+  pk: 35
+  fields: 
+   student_id: 7efbfe140dd1bfa3edc450af7836f0126a78a5aec9d38f372075ed4a95b4bb96
+   student_name_surname: c8555ef99b4cacf9f021b40b2923cd9397e7548e5b43f275b8bb50c2ffb9fd27
+   state_not_normal: ไม่จดทะเบียนศึกษารายวิชาภาค
+   grade: 1.88
+
+- model: academicis_app.State_Inactive
+  pk: 36
+  fields: 
+   student_id: 30a174d8cd2074ff418ff761c03bc34d43c76219fe44a17bf751fde00a39a04e
+   student_name_surname: be2b2101584f5b159b49db90d6dec6f663fdb279275d7fafc756ad64c7a26caa
+   state_not_normal: ค่าระดับเฉลี่ยต่ำกว่า 1.50 เมื่อสิ้นภาค
+   grade: 1.06
+
+- model: academicis_app.State_Inactive
+  pk: 37
+  fields: 
+   student_id: 45889cc4aa4d2a5dc7f7b4e6e1e83e38544c006089f0751f42e3e2598db05f0c
+   student_name_surname: d19dd01f192b81017b207ebd0c615a775a6d06e8094c6f582d2d8c39ed8a0cb5
+   state_not_normal: ลาออก
+   grade: 1.67
+
+- model: academicis_app.State_Inactive
+  pk: 38
+  fields: 
+   student_id: 3649094b57274a60bc2bdf7dc50599743df4501602961e83beef7fd8c7a51912
+   student_name_surname: 7b4a5d17e81eba23f99fd3b8dac5f8ceeb1458e9cf483ca0973e631e775cdec6
+   state_not_normal: ลาออก
+   grade: 1.33
+
+- model: academicis_app.State_Inactive
+  pk: 39
+  fields: 
+   student_id: 268bd2c08ad5d603b138315204c1ca0c1a91a94c97d02ec1ddc2567eb6f1974c
+   student_name_surname: ef4c4d051ff9cdd3d5d5cc9232459c7e0949f2df1de182e0dfb353eb4f76ed1b
+   state_not_normal: ลาออก
+   grade: 0
+
+- model: academicis_app.State_Inactive
+  pk: 40
+  fields: 
+   student_id: ac5b90b7422aad0a69f9e61d971786bd63c6bdeadc21fdfd593c81f09dd7bdd6
+   student_name_surname: 1bc10ff4bc4c531aa97a9e79dd961e4d6fb4a3f61611a91485c9903f9ba39fd6
+   state_not_normal: ลาออก
+   grade: 1.1399999999999999
+
+- model: academicis_app.State_Inactive
+  pk: 41
+  fields: 
+   student_id: 2002f667368463b4db40a48b3bfe57568960990a9d67fffcb325922d4efb411b
+   student_name_surname: d2e74fcb8f5921a18a14eb232185aec1d511b5d94c7a725a33f0e5dec3f01265
+   state_not_normal: ไม่จดทะเบียนศึกษารายวิชาภาค
+   grade: 2
+
+- model: academicis_app.State_Inactive
+  pk: 42
+  fields: 
+   student_id: e7a3dc595584cbf6bd56bf83d7c5481d896b417bbb8be7223e12d50f5527f136
+   student_name_surname: db8178a05632b726e4f40b158b4b4be305e7aacadf1ee6ce3f908e480d9e16f6
+   state_not_normal: ลาออก
+   grade: 0.91
+
+- model: academicis_app.State_Inactive
+  pk: 43
+  fields: 
+   student_id: 71e1a168c5e0e40541fcdeb08757c0f08170a690cae7d3dbab914a26f03da652
+   student_name_surname: 61990d16bcc9a6842835637919cb1686a4468101eeea40f9d21cb0d47568595a
+   state_not_normal: ลาออก
+   grade: 0
+
+- model: academicis_app.State_Inactive
+  pk: 44
+  fields: 
+   student_id: 9454a1aaa13b2c8cab005886966e7afdb6063b1875f31bc19ed8a6053b4966a7
+   student_name_surname: 4e885801e1acf222671e2ead497468204179b7e44d237c2fbfd17e5254391959
+   state_not_normal: ลาออก
+   grade: 2.25
+
+- model: academicis_app.State_Inactive
+  pk: 45
+  fields: 
+   student_id: fba8d3914913a387fa83f829b30c551f24417d851852e4d52ea7ca97e20230ee
+   student_name_surname: 1158fa3b42a4e37f7e85729ae9c5cf28a565a700b8327d80574adb0b1b1b2e8c
+   state_not_normal: ลาออก
+   grade: 0
+
+- model: academicis_app.State_Inactive
+  pk: 46
+  fields: 
+   student_id: 087eedc83df90dbc0b5e0e9f7e7ee5dd972b7a82618f558605fcb3f5fecf933e
+   student_name_surname: b65595c6ed6e8261ab7449135ebc074604449a3b922c42f4ea8c2808704dff43
+   state_not_normal: ลาออก
+   grade: 2
+
+- model: academicis_app.State_Inactive
+  pk: 47
+  fields: 
+   student_id: fa15396ab93fc39f83be7d56b6de42922e1c1cec77803cbdc75451a2e71deb3a
+   student_name_surname: 9e62364aff153161a99a95e8af90bb08b77b6e423b6f17bf6f2202e116af42fb
+   state_not_normal: ลาออก
+   grade: 0
+
+- model: academicis_app.State_Inactive
+  pk: 48
+  fields: 
+   student_id: 98a317b9e9158df219831c615c15d0ebb0ea3eee68f75d8eea1ed91f8bbff09f
+   student_name_surname: be1824b1a68df4bfe12ef075fe61b0f56390d00c387ef2f14d6f750d5abcd348
+   state_not_normal: ลาออก
+   grade: 0
+
+- model: academicis_app.State_Inactive
+  pk: 49
+  fields: 
+   student_id: 88e06131f223b355710ce2daea7f28f4bff0c1e498daad002f3dcff70292da16
+   student_name_surname: 916e0500e3570ca78da94f94e6131ca9220eb5650c6026eb485d5b7112ce2918
+   state_not_normal: ลาออก
+   grade: 0
+
+- model: academicis_app.State_Inactive
+  pk: 50
+  fields: 
+   student_id: f8a1a274edcab72d460553b00b05227186896c319fb893549aeaf85efd59cdec
+   student_name_surname: b5870ce9e8483bcd9d3ba4c2408b518e4c0abe65dadc2efafed01cdef38490d3
+   state_not_normal: ลาออก
+   grade: 2.42
+
+- model: academicis_app.State_Inactive
+  pk: 51
+  fields: 
+   student_id: 33233ce1ce5b02786e4463c113287a3cbcb33e6d1d389131c287cc090796d4af
+   student_name_surname: 3aad0e30323eb61482566a8d3757f7f17d70c2b242226f229790a82e2a2906c6
+   state_not_normal: ลาออก
+   grade: 2.42
+
+- model: academicis_app.State_Inactive
+  pk: 52
+  fields: 
+   student_id: 800e26a61d82f3e2f3c66b4d7c447a418bffa1302f420c258770052e66fe293f
+   student_name_surname: 731fb13e4464ed1802554b08c893aa0fdd00ea75192e57d525b5c8a04281b711
+   state_not_normal: ลาออก
+   grade: 1.92
+
+- model: academicis_app.State_Inactive
+  pk: 53
+  fields: 
+   student_id: 873f11837cfd23f419925d1f538b4e15bcdb7ee60bb31efaec328b6b87530084
+   student_name_surname: 6562a874adb13ce4733659467679cb9737d6d3df331fa8aa908203768caa5df6
+   state_not_normal: ลาออก
+   grade: 2.04
+
+- model: academicis_app.State_Inactive
+  pk: 54
+  fields: 
+   student_id: 17da4e4559e87e9397259bd365963bc3c909cefda4627a74ec10c15e4bed4b83
+   student_name_surname: cc2ff0b3f301c476976628592934b411151063817a6fc98c031ab5360a3568e7
+   state_not_normal: ลาออก
+   grade: 2.31
+
+- model: academicis_app.State_Inactive
+  pk: 55
+  fields: 
+   student_id: ed53c874ab39fb86372f48b11fd504f9333d5fbbae64bdb383463717c501d899
+   student_name_surname: cf0cc17d58b03f7fd0daebca638f5c5a6dd60ab345c79e9f9fedc53700874e0d
+   state_not_normal: ลาออก
+   grade: 2.58
+
+- model: academicis_app.State_Inactive
+  pk: 56
+  fields: 
+   student_id: 33e927545a3c14a61dec40b988aed8dca387dfc6d8665d462fa4594492c17321
+   student_name_surname: 2abb08b6dd11c2ede23ce039bd772363a000bfe7ae4bfd9711d46891cfc056fe
+   state_not_normal: ค่าระดับเฉลี่ยต่ำกว่า 1.50 เมื่อสิ้นภาค
+   grade: 1.29
+
+- model: academicis_app.State_Inactive
+  pk: 57
+  fields: 
+   student_id: 7a6e12cba0bee0d66d3e204643706eccdd4cdb24ee316b54bea9f6c2afd5b64b
+   student_name_surname: e155a04798472efeea6d1afb5b5e7e0186e4b27196c5bbe4ea8c3742e191ac82
+   state_not_normal: ไม่จดทะเบียนศึกษารายวิชาภาค
+   grade: 2.14
+
+- model: academicis_app.State_Inactive
+  pk: 58
+  fields: 
+   student_id: d4299df6f26ef77ae89b93d5c1cdb34855efaea6d2fa838a871aa8d7b390690f
+   student_name_surname: c1f32744141706371b1784cb96eccd7bc5b9d5f445f39dc28ffabf6c365948a9
+   state_not_normal: ลาออก
+   grade: 2.23

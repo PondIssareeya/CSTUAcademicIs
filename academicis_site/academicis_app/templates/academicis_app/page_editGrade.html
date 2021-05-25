@@ -1,0 +1,61 @@
+{% extends 'academicis_app/layout.html'%}
+
+{% block content %}
+<h5>การจัดการข้อมูล > เรียกดู/แก้ไขข้อมูล</h5>
+<br>
+<ul class="nav nav-tabs">
+    <li class="nav-item">
+        <a class="nav-link" href="/academicis/editStudent" style="color: black;">ข้อมูลนักศึกษา</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="/academicis/editEnrollment" style="color: black;">ข้อมูลการลงทะเบียน & ผลการศึกษา</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link active" aria-current="page" style="font-weight: bold;">ข้อมูล GPA</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="/academicis/editState" style="color: black;">ข้อมูลนักศึกษาสถานะไม่ปกติ</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="/academicis/editCourseUsage" style="color: black;">ข้อมูลรายวิชา</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="/academicis/editApptype" style="color: black;">รายละเอียดการรับเข้า</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="/academicis/editPlan" style="color: black;">ข้อมูลแผนการรับนักศึกษา</a>
+    </li>
+</ul>
+<br>
+    <form action="{% url 'edit_grade' %}">
+        {{form.name.label}}
+        &nbsp;
+        {{form.name}}
+        <button>ค้นหา</button>
+    </form>
+    <br>
+    <table>
+        <thead>
+            <tr>
+                <th>รหัสนักศึกษา</th>
+                <th>ชื่อ-สกุล</th>
+                <th>ปีที่ลงทะเบียน</th>
+                <th>เทอมที่ลงทะเบียน</th>
+                <th>เกรดเฉลี่ยที่ได้รับ</th>
+                <th>เกรดเฉลี่ยรวม</th>
+                <th></th>
+            </tr>
+        </thead>
+        {% for x in data %}
+            <tr>
+                <td>{{x.student_id}}</td>
+                <td>{{x.student_name_surname}}</td>
+                <td>{{x.academic_year}}</td>
+                <td>{{x.academic_semester}}</td>
+                <td>{{x.s_gpa}}</td>
+                <td>{{x.s_gpax}}</td>
+                <td><a href="{% url 'update_grade' id=x.id %}">แก้ไข</a></td>
+            </tr>
+        {% endfor %}
+    </table>
+{% endblock %}

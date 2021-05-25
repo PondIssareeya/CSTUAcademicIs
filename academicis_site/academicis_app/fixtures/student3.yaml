@@ -1,0 +1,953 @@
+﻿# File created by Easy Data Transform v1.8.1 at 2021-02-08 02:43:22.
+
+- model: academicis_app.Student
+  pk: 1721
+  fields: 
+   student_id: ed7ffb21c64f9833c0961d5d0a2ab167bd36bdaef51eb48f843cd2bd5f47dfc4
+   student_name_surname: bb8ce35c1ef83264deaa42a501ed457175e5d4a9448ab2d241025fbbab3c9304
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 650901
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ สาขาศาสตร์คอมพิวเตอร์
+   applicanttype_name_morespecific: TCAS รอบ 1
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: โรงเรียนวัดสุทธิวราราม
+   student_highschool_gpa: 3.36
+
+- model: academicis_app.Student
+  pk: 1722
+  fields: 
+   student_id: 84025d430a381ae9b3f921b115663e9889ac8c67dc9d1194e1e60c831705608e
+   student_name_surname: 9be85827c3c33c90ddc6be34768b5f5ef3228edd55ba2b5de6927c90457e52d9
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 650901
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ สาขาศาสตร์คอมพิวเตอร์
+   applicanttype_name_morespecific: TCAS รอบ 1
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: โรงเรียนกาฬสินธุ์พิทยาสรรพ์
+   student_highschool_gpa: 3.55
+
+- model: academicis_app.Student
+  pk: 1723
+  fields: 
+   student_id: 812ef98dab3f4a15b9641e45d7fa0b37f3263f7300ebb3787b3a06e60b53787d
+   student_name_surname: b6f58cfefff8b49d5df6a77dab8a7b86419c6389f3112730909c8af96ab570dc
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 650901
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ สาขาศาสตร์คอมพิวเตอร์
+   applicanttype_name_morespecific: TCAS รอบ 1
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: โรงเรียนหอวัง ปทุมธานี
+   student_highschool_gpa: 3.5
+
+- model: academicis_app.Student
+  pk: 1724
+  fields: 
+   student_id: c258a7a695ae2b087359fc9a58cff5396c618b1ddf7f5b7af3719168e9dc1307
+   student_name_surname: fd3f7560a2e06bcbac1130bd9a2563fba432ffef5727a1b90dcddf9a75a70aac
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 650901
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ สาขาศาสตร์คอมพิวเตอร์
+   applicanttype_name_morespecific: TCAS รอบ 1
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: โรงเรียนส่วนบุญโญปถัมภ์ลำพูน
+   student_highschool_gpa: 3.07
+
+- model: academicis_app.Student
+  pk: 1725
+  fields: 
+   student_id: 2e4b539351e08dbdfb5bf5739620f176fd74444dbc8e105be57cdebd2af7a031
+   student_name_surname: 9cd413ea9fc61583f3d9225fdb18ce34530624b2f8f189c9a6678b1e9fc475c8
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 650901
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ สาขาศาสตร์คอมพิวเตอร์
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: โรงเรียนกำแพง จังหวัดศรีสะเกษ
+   student_highschool_gpa: 3.34
+
+- model: academicis_app.Student
+  pk: 1726
+  fields: 
+   student_id: e9934b4ae70c665697eeaaaa64d9e5ac9ae78d195f2971541f9d13b2fdee3325
+   student_name_surname: f43cf29ce54ee4a9312021bd0b3ae485ef673f64374d6b5a621b482ef5da733d
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 650901
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ สาขาศาสตร์คอมพิวเตอร์
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: คณิต-อังกฤษ
+   student_highschool: โรงเรียนนวมินทราชินูทิศ หอวัง นนทบุรี จังหวัดนนทบุรี
+   student_highschool_gpa: 3.69
+
+- model: academicis_app.Student
+  pk: 1727
+  fields: 
+   student_id: fb4a73290ccd553925a448e930d01bd507f16216394c059153acef33b647432d
+   student_name_surname: 07212e9bc013bd44a6d9c5eb90d76cffb9aba9e601c1fdfb384bc979fcfb545e
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 650901
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ สาขาศาสตร์คอมพิวเตอร์
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: วัดเขมา​ภิรตาราม​ นนทบุรี​
+   student_highschool_gpa: 3.61
+
+- model: academicis_app.Student
+  pk: 1728
+  fields: 
+   student_id: 1859f89f40d2884e5c3118dc127c03e02dc6922fd0a3df87b54228673b660a95
+   student_name_surname: bc061cbbaf2aef538dc8060c7b969bfe9c5fc5be7f97f6dc98a5dbefd77e87d7
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 650901
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ สาขาศาสตร์คอมพิวเตอร์
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: คณิต-อังกฤษ
+   student_highschool: สวนกุหลาบวิทยาลัย กรุงเทพมหานคร
+   student_highschool_gpa: 3.04
+
+- model: academicis_app.Student
+  pk: 1729
+  fields: 
+   student_id: 087c174ebdf390cf657fe219eb58e1c50fecc8c477f8925e7cbe552d4dad8d12
+   student_name_surname: b269e8267236d252c6a2f8fb04e9e78b170cce10aa5a44ec7e00b774c4b4d93e
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 650901
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ สาขาศาสตร์คอมพิวเตอร์
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: คณิต-อังกฤษ
+   student_highschool: โรงเรียนสตรีวัดมหาพฤฒาราม ในพระบรมราชินูปถัมภ์
+   student_highschool_gpa: 3.72
+
+- model: academicis_app.Student
+  pk: 1730
+  fields: 
+   student_id: d5a366ae357708ea654df591d456fdf378987d5ecd547a67fc2bfa8c349db830
+   student_name_surname: e4fe2b23ae301d59255a59cdeb0e008cc2cadb6daae44b103ef7e3760209a254
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 650901
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ สาขาศาสตร์คอมพิวเตอร์
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: เตรียมอุดมศึกษาพัฒนาการ ปทุมธานี จ.ปทุมธานี
+   student_highschool_gpa: 3.66
+
+- model: academicis_app.Student
+  pk: 1731
+  fields: 
+   student_id: 1fa9b73fce74fbf35650d87be6805d97555c530942f1e31eee556e792d000f81
+   student_name_surname: cdc512e8ec7d4edfc754c5fe6bf29c3a21e2c8647bbaa8a230807ee60cadcf34
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 650901
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ สาขาศาสตร์คอมพิวเตอร์
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: โรงเรียนเขมะสิริอนุสสรณ์ กรุงเทพฯ
+   student_highschool_gpa: 3.29
+
+- model: academicis_app.Student
+  pk: 1732
+  fields: 
+   student_id: 67075927a42708865951b0bcf20cd302d85bd30f07c38bc9774b42cebdcf9a07
+   student_name_surname: 91a0487b91747d82731179a444aff43eb627beeca936844ae34b71489de28c79
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 650901
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ สาขาศาสตร์คอมพิวเตอร์
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: สายปัญญา​รังสิต​
+   student_highschool_gpa: 3.21
+
+- model: academicis_app.Student
+  pk: 1733
+  fields: 
+   student_id: 373625fed2321333984600f597beb0dd8111495a217b8fdc001fa5de738090ab
+   student_name_surname: d457c9d44ef66e2876e11f1d1638d519d9f80cd1c871e0090b8e4e4e121a012b
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 650901
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ สาขาศาสตร์คอมพิวเตอร์
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: คณิต-อังกฤษ
+   student_highschool: โรงเรียนสวนกุหลาบวิทยาลัย นนทบุรี จังหวัดนนทบุรี
+   student_highschool_gpa: 3.3
+
+- model: academicis_app.Student
+  pk: 1734
+  fields: 
+   student_id: b15e418dc700c1b944424cae79b9fe2fec487df0bd70720e7cce37df6f0c3fcd
+   student_name_surname: cd8f38702f8d3d4ddd8cf1d1ef7231269f7ece93d34683eceead6e33a7178039
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 650901
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ สาขาศาสตร์คอมพิวเตอร์
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: วินิตศึกษาในพระราชูปถัมภ์ฯ จ.ลพบุรี
+   student_highschool_gpa: 3.72
+
+- model: academicis_app.Student
+  pk: 1735
+  fields: 
+   student_id: b1b3e0b8b3df551377984a25949eab6d1b51c6ae2d2e2a148a7be6435e95e698
+   student_name_surname: 0268884b48c7657670eaa782ed860f5aac96f7504d714889579aa6cfa9d76259
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 650901
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ สาขาศาสตร์คอมพิวเตอร์
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: โรงเรียนพิมายวิทยา จ.นครราชสีมา
+   student_highschool_gpa: 3.52
+
+- model: academicis_app.Student
+  pk: 1736
+  fields: 
+   student_id: e7290fba2319e6b93118b2034c443e8d7ba8600b7ce5999c804b93010b583b17
+   student_name_surname: 8844f2ab82c692ab5ce13ecc320676eb555f09ab7954abedf0b9b509dc0e2abe
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 650901
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ สาขาศาสตร์คอมพิวเตอร์
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: สุรนารีวิทยา นครราชสีมา
+   student_highschool_gpa: 3.3
+
+- model: academicis_app.Student
+  pk: 1737
+  fields: 
+   student_id: f77182c9d9b5e0ea0667bf4490c37d995af77c920c6a721821b43f4931c609c7
+   student_name_surname: e90d912298683519291fc6a5f8637284e928ebefcdb675e498be6adb00f0924b
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 650901
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ สาขาศาสตร์คอมพิวเตอร์
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: โรงเรียนมงฟอร์ตวิทยาลัย จังหวัด เชียงใหม่
+   student_highschool_gpa: 3.6
+
+- model: academicis_app.Student
+  pk: 1738
+  fields: 
+   student_id: 266c6d6c9650e548df90360934c345463e3d6e9f1dba4001f17e2c27d792ed7e
+   student_name_surname: f8c966e5634df06445f2b3598cab67e1093497f59d0930d8642d7ad623212930
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 650901
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ สาขาศาสตร์คอมพิวเตอร์
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: คณิต-อังกฤษ
+   student_highschool: โรงเรียนสวนกุหลาบวิทยาลัย นนทบุรี
+   student_highschool_gpa: 3.62
+
+- model: academicis_app.Student
+  pk: 1739
+  fields: 
+   student_id: b9ca2934ed3f8cd445d7d0dac2a102d43036490173891ee004ae34794905f0d5
+   student_name_surname: a40a39230ddc7513fcdac70334df527f31169899ee78c4dedf24e234a2c83f4d
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 650901
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ สาขาศาสตร์คอมพิวเตอร์
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: โรงเรียนเตรียมอุดมศึกษาภาคใต้ จ.นครศรีธรรมราช
+   student_highschool_gpa: 3.09
+
+- model: academicis_app.Student
+  pk: 1740
+  fields: 
+   student_id: d119e988096e9fef19bc28795dc80049418372033ea94ccacdfe5c30e7d25163
+   student_name_surname: d6b02de236f495926a4d969f68a7987aa9913b43964601915ea1f1dd645c0de4
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 650901
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ สาขาศาสตร์คอมพิวเตอร์
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: ธิดานุเคราะห์ จังหวัดสงขลา
+   student_highschool_gpa: 2.84
+
+- model: academicis_app.Student
+  pk: 1741
+  fields: 
+   student_id: 1ea9b0926c6437f34ea1b8b07fd45bcb72308d88be3f1bcef00dab3f018567a4
+   student_name_surname: 4ff5e0a4962df0f39e9fdf00e9ef72f51f48b180f37de0e799851e6c277f3ae4
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 6561
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ Admission
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: โรงเรียนวินิตศึกษาในพระราชูปถัมภ์ จ.ลพบุรี
+   student_highschool_gpa: 3.72
+
+- model: academicis_app.Student
+  pk: 1742
+  fields: 
+   student_id: ac37084cc8db9933b15b401af5e8b45a10527c5939a8e8a59b9f5c8c9fe81deb
+   student_name_surname: 87cd0939412898327f4a20ca1ecb45082861d5b873740596bbd8455123e0ac58
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 6561
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ Admission
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: คณิต-อังกฤษ
+   student_highschool: โรงเรียน นวมินทราชินูทิศ เตรียมอุดมศึกษาน้อมเกล้า กรุงเทพฯ
+   student_highschool_gpa: 3.21
+
+- model: academicis_app.Student
+  pk: 1743
+  fields: 
+   student_id: 463a9b6c84fba282e023152b3bb79a39c09d81918e6b651df5fe49ecc7df0414
+   student_name_surname: 5f41cec6d76b2a5c42a55a356dd1c97c6eab1c51107bb590c18706a67d8602aa
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 6561
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ Admission
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: คณิต-อังกฤษ
+   student_highschool: สามเสนวิทยาลัย กรุงเทพฯ
+   student_highschool_gpa: 3.01
+
+- model: academicis_app.Student
+  pk: 1744
+  fields: 
+   student_id: 627a3c2fe0598cca5bda50e283c9fb7cd4c757bac2c0ffb70a3eadc752c64bfb
+   student_name_surname: 11a218eb62ff1b8882c60237b9ae249ef0e8e4257cb9cb40a27c6bb306734050
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 6561
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ Admission
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: คณิต-อังกฤษ
+   student_highschool: โรงเรียนนวมินทราชินูทิศเตรียมอุดศึกษาน้อมเกล้า กรุงเทพฯ
+   student_highschool_gpa: 3.14
+
+- model: academicis_app.Student
+  pk: 1745
+  fields: 
+   student_id: 689ff34759af8942337e04a0accc1cb2af3fe09b79f9e64f78b5a9751623a756
+   student_name_surname: ebd824f70ff5206516518b21c79eb1f5a3e92d742c153d77ff0746589d150edd
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 6561
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ Admission
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: โรงเรียนสารสาสน์วิเทศบางบัวทอง จ.นนทบุรี
+   student_highschool_gpa: 3.79
+
+- model: academicis_app.Student
+  pk: 1746
+  fields: 
+   student_id: 2145aed447b2814f0a88bdc759077743f76bce98cc1f55ea52c868e6f235cea6
+   student_name_surname: 9a5d50f491b287aef6eeb32bd6cbde703aa0edf86b09d7b7215e7fc3e3a1abaa
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 6561
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ Admission
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: คณิต-อังกฤษ
+   student_highschool: ฤทธิยะวรรณาลัย กรุงเทพมหานคร
+   student_highschool_gpa: 3.13
+
+- model: academicis_app.Student
+  pk: 1747
+  fields: 
+   student_id: 896450ec7dbe665dc0a8abbd8fb229605cac66f6eea51f8443a8206b721f674c
+   student_name_surname: 872ecf638201409306aac7cfb87b1f5951f80cddb1ba6e53e2cc5d3c2bbd877e
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 6561
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ Admission
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: โพธิสารพิทยากร จังหวัดกรุงเทพ
+   student_highschool_gpa: 3.33
+
+- model: academicis_app.Student
+  pk: 1748
+  fields: 
+   student_id: 846ba02c9264aa39c8d1d39b1a7b5744d2b19bbbac4541704d46592ee9e1f73d
+   student_name_surname: f21eb974c037c15ea75bffa2e7e31d47288cad788f0127fb81d3478c36485ffb
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 6561
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ Admission
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: โรงเรียนทีปังกรวิทยาพัฒน์(มัธยมวัดหัตถสารเกษตร). จังหวัด ปทุมธานี
+   student_highschool_gpa: 3.42
+
+- model: academicis_app.Student
+  pk: 1749
+  fields: 
+   student_id: 4f592780ef99bef1766f06ae2c89ce0f77c461ad7e0b29a3e55e301bb5d3be12
+   student_name_surname: 92e92c1786e1498ff4010bd505902a4951a2986c8e5c0b1c74a2c70267fa87f8
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 6561
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ Admission
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: คณิต-อังกฤษ
+   student_highschool: โรงเรียนบดินทรเดชา(สิงห์ สิงหเสนี)
+   student_highschool_gpa: 3.09
+
+- model: academicis_app.Student
+  pk: 1750
+  fields: 
+   student_id: 8806965f344ef21a976731fec9f661f4ee8a949db38f9f520dc5335e9b86a8a7
+   student_name_surname: 6337045892b83b0723b07302941fae95f0642e97d1745b093459080afc21da2c
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 6561
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ Admission
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: สาธิตมหาวิทยาลัยศิลปากร
+   student_highschool_gpa: 2.77
+
+- model: academicis_app.Student
+  pk: 1751
+  fields: 
+   student_id: 4abb16c309fe547846477fd2163087afad54591cc42c83d6831c59161cac337c
+   student_name_surname: 6faa0421f52672ebd76ee7ab940d793f11e34aa0fe7178c7b4e18c4f2a031b33
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 6561
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ Admission
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: สวนกุหลาบวิทยาลัยนนทบุรี จังหวัดนนทบุรี
+   student_highschool_gpa: 2.85
+
+- model: academicis_app.Student
+  pk: 1752
+  fields: 
+   student_id: c3bf271050dee3cd3bafd27a39bc0546c97afbb0713637a0a5ce697835100a28
+   student_name_surname: a2b92d5b12a8cfb43e20c2b23a4eafae0f4b0e6c5d115bce6690a7d4515478d1
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 6561
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ Admission
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: โรงเรียนวัดนวลนรดิศ
+   student_highschool_gpa: 2.85
+
+- model: academicis_app.Student
+  pk: 1753
+  fields: 
+   student_id: 7a5963942fb242184891b9f78c2eb6077ece47813cbad1a6c2ef5be237bef7d9
+   student_name_surname: a53adf78ef78813a09ed497edfb6597ad120a2007231d04b93403c215233210c
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 6561
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ Admission
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: คณิต-อังกฤษ
+   student_highschool: ศึกษานารีวิทยา ที่ตั้ง กรุงเทพ
+   student_highschool_gpa: 3.17
+
+- model: academicis_app.Student
+  pk: 1754
+  fields: 
+   student_id: 998e2697b4b0becac69a61018385828955dcb9725b07fc2c1b7ad0388868d550
+   student_name_surname: 9b5ae9da02ff9b5adb44ad3eb2c591c3bc63254aec7b292b190b225fe4626ed2
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 6561
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ Admission
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: สตรีวิทยา กรุงเทพมหานคร
+   student_highschool_gpa: 2.79
+
+- model: academicis_app.Student
+  pk: 1755
+  fields: 
+   student_id: da7dcbde2abba74f2e09eb7a359d116edd41e90ad30106417131686f4aa596ce
+   student_name_surname: ed261e041bee39b653c60f52bb8b87e84ee89fbc63399291464f52a1cf3424f4
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 6561
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ Admission
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: โรงเรียนโยธินบูรณะ กรุงเทพมหานคร
+   student_highschool_gpa: 3.11
+
+- model: academicis_app.Student
+  pk: 1756
+  fields: 
+   student_id: ffb3976008dc4a95ba8d61502ef7547994ec9ca63150d80c46ac43f995ab08e3
+   student_name_surname: 8a47d881e1e90381a1c1e88c35c0fc8b0abee88a1008a9e0d3169e3d54f8bd62
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 6561
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ Admission
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: คณิต-อังกฤษ
+   student_highschool: โรงเรียนบดินทรเดชา(สิงห์ สิงหเสนี) กทม.
+   student_highschool_gpa: 2.92
+
+- model: academicis_app.Student
+  pk: 1757
+  fields: 
+   student_id: 96dcc112ea48f9148813657bc10cdc4ee70e69c82a1604e05ef37d386928c114
+   student_name_surname: be556e61145fdb2b758f78a159c90f0c9cc372fb4ec76c81dd4bc5e85d2aaefa
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 6561
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ Admission
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: โรงเรียนหอวัง กรุงเทพมหานคร
+   student_highschool_gpa: 2.23
+
+- model: academicis_app.Student
+  pk: 1758
+  fields: 
+   student_id: d63b6471a71dcc5f7b768488ba1a527d57d5ed403ee14ee3d242353ca6a1a671
+   student_name_surname: 4ea20af9d03a818e816803fd751ca1920590f5e568acee02300aba88adc78f03
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 6561
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ Admission
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: โรงเรียนสามเสนวิทยาลัย กรุงเทพ
+   student_highschool_gpa: 2.78
+
+- model: academicis_app.Student
+  pk: 1759
+  fields: 
+   student_id: 9fd44258838a88c74f6898e07fbfeda8ee9f15b7dc48c78e850178d5991a4d57
+   student_name_surname: 85178a0705abf1b8c4188f1e7d429968378e5df2ee5c2e7029c37e2e84d52a11
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 6561
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ Admission
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: ฤทธิยะวรรณาลัย
+   student_highschool_gpa: 3.38
+
+- model: academicis_app.Student
+  pk: 1760
+  fields: 
+   student_id: a9937a169f28503c1c2d6007fb83dc9ef3b17ce7c5c219225d56903c4e1ff754
+   student_name_surname: a0c89a9fd5c5cf4857c1c79a918d230158341f2a10cb668b55ce7d3dd4839890
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 6561
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ Admission
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: วินิตศึกษาในพระราชูปถัมภ์ฯ ลพบุรี
+   student_highschool_gpa: 3.51
+
+- model: academicis_app.Student
+  pk: 1761
+  fields: 
+   student_id: 74e8725b394865b9c9caf674e3c22b0662f977b440ce2e5df3cb53e0b43bb3b4
+   student_name_surname: 96be000fc800d47958f7e79174c1bb0085ced4a0d4ec8894f2297344241c5373
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 6561
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ Admission
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: โรงเรียนวัดสุทธิวราราม
+   student_highschool_gpa: 3.3
+
+- model: academicis_app.Student
+  pk: 1762
+  fields: 
+   student_id: 8980abe5caa90acdde0ddd429585c714459aedac20876e7270c5c45b430d84e1
+   student_name_surname: 7272136b4f31d9b9e5538a2f366f8e89aa54c94badd5e6380ceff299d3c4886e
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 6561
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ Admission
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: โรงเรียนเซนต์โยเซฟเมืองเอก(ปทุมธานี)
+   student_highschool_gpa: 3.46
+
+- model: academicis_app.Student
+  pk: 1763
+  fields: 
+   student_id: b2ddce8495eefc6151cbe6f8c9706540800101d292c66c4a80efc29727bd69a6
+   student_name_surname: 4a2869d1f2cd5677f843944a9ea260f6bcd92024bbead65e375e24539976eb3f
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 6561
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ Admission
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: โรงเรียนวัดสุทธิวราราม กรุงเทพมหานคร
+   student_highschool_gpa: 3.63
+
+- model: academicis_app.Student
+  pk: 1764
+  fields: 
+   student_id: 6a855f1857f05c770dee1acbc9c8f8515f2a245b2dc4413e1e91b4af5901aa4b
+   student_name_surname: ae00c987e7d0334a4aa1a34eb623eeed9bf3ccf13ebd7c4c1d73aca8476672db
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 6561
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ Admission
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: โรงเรียนท่าอิฐศึกษา นนทบุรี
+   student_highschool_gpa: 3.75
+
+- model: academicis_app.Student
+  pk: 1765
+  fields: 
+   student_id: 1bf34e25d9648f89dc65d8504ddc496ecf04777e30610ae39a9f01308f6d0aff
+   student_name_surname: 94ca02d15ea7f67e93e4a0ff0d4fe5ef8c05498e4a3bf460d71e28a1c30ac308
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 6561
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ Admission
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: คณิต-อังกฤษ
+   student_highschool: โรงเรียนนวมินทราชินูทิศ หอวัง นนทบุรี จ.นนทบุรี
+   student_highschool_gpa: 3.24
+
+- model: academicis_app.Student
+  pk: 1766
+  fields: 
+   student_id: 23a4b3a8097b61715ac1d1386e92d03de8368542d913f05f1cee1460943a2b2e
+   student_name_surname: 279d3c6c0ddba8e9778909e97eac1f94f8f51ccf42b8925035a07b3758d24272
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 6561
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ Admission
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: คณิต-อังกฤษ
+   student_highschool: โรงเรียนสวนกุหลาบวิทยาลัยนนทบุรี
+   student_highschool_gpa: 2.95
+
+- model: academicis_app.Student
+  pk: 1767
+  fields: 
+   student_id: bf06ee8c017df96b2d1694cb1428c23ee97cdf0c96117e895144281ca148cf53
+   student_name_surname: 3154234baaa3990420ebc1bef06f3eff0acf9b1d4044d8f431f9ca05c956113e
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 6561
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ Admission
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: อัทพรไพศาล นนทบุรี
+   student_highschool_gpa: 3.32
+
+- model: academicis_app.Student
+  pk: 1768
+  fields: 
+   student_id: eb18d5f04dd19ea0d7842157a7405d6cecb810634ab4f1d9ad1bcdbdd9530a64
+   student_name_surname: e06bf4122f65e20160c553337d02a71fcb93e410ab5466e83c6c63898ae18bd4
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 6561
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ Admission
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: คณิต-อังกฤษ
+   student_highschool: ฤทธิยะวรรณาลัย
+   student_highschool_gpa: 3.6
+
+- model: academicis_app.Student
+  pk: 1769
+  fields: 
+   student_id: 1b219415b458a0bd4ec923b727c7837ac925782b9eba544141f95546d908203a
+   student_name_surname: c924a4bf322c66a4fc11def64676246cfaa42f12558d8ee5c110931583916fe0
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 6561
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ Admission
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: ราชวินิตบางเขน กรุงเทพมหานคร
+   student_highschool_gpa: 2.6
+
+- model: academicis_app.Student
+  pk: 1770
+  fields: 
+   student_id: 1c3ccc821660398beb1b1798cc456a19621e20ab0f2978f05e2716da2f5d0d91
+   student_name_surname: 4bd68c30741e76fb8b6c47b78af21ae30447ef85726a1da444729ee57ddbff60
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 6561
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ Admission
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: โรงเรียนวินิตศึกษาในพระราชูปถัมภ์ จังหวัดลพบุรี
+   student_highschool_gpa: 3.54
+
+- model: academicis_app.Student
+  pk: 1771
+  fields: 
+   student_id: 284dd7bac665f3ca05f64f1f300b207b11645832383ca8c258c413a521b80090
+   student_name_surname: aec9114a9e49f717eb4a1bbb0f6cc153f8a817a29a462281c80ae098be1f6046
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 6561
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ Admission
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: ไม่มาขึ้นทะเบียนเป็นนักศึกษา (ไปเรียนมหาวิทยาลัยเดิมที่เคยเรียน)
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1772
+  fields: 
+   student_id: f8fdf0d90ad3c96be3ae391c8ef5b35155619294edc4f3425d5fdb29f94d56e2
+   student_name_surname: d16de72106f29076b1baf947fb820ed48149d3f1b4de0195a6ff29f07de43890
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 6561
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ Admission
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: วินิตศึกษา จ.ลพบุรี
+   student_highschool_gpa: 3.45
+
+- model: academicis_app.Student
+  pk: 1773
+  fields: 
+   student_id: 219045e22e2389b3d86b1d9d96eb229d6344dabd4a08b55000996eaadb4abe6a
+   student_name_surname: e2181f9262d613e2309485752b216010ed8f41a691089400ecb3017dfabe488c
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 6561
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ Admission
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: โรงเรียนสตรีนนทบุรี จ.นนทบุรี
+   student_highschool_gpa: 3.4
+
+- model: academicis_app.Student
+  pk: 1774
+  fields: 
+   student_id: d65c12cbaceec61e2b5b5b6a7c10a5d37761f7933c922b1f87335835bafb3f02
+   student_name_surname: 393944a85e3162d4aba8048cb02e182f9a355033d2674a578cb2fede70630fa8
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 6561
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ Admission
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: โรงเรียนสิงห์สมุทร จ.ชลบุรี
+   student_highschool_gpa: 3.36
+
+- model: academicis_app.Student
+  pk: 1775
+  fields: 
+   student_id: 3402657a4b98aabb993b19724eef36ffb7f8c6594020d15e218a8bf9e7d7e635
+   student_name_surname: 2dedbce232bfd60c7f024811203e25ecede4a8eac9b40c1140096485d1fa8d3f
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 6561
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ Admission
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: วังน้ำเย็นวิทยาคม จ.สระแก้ว
+   student_highschool_gpa: 3.38
+
+- model: academicis_app.Student
+  pk: 1776
+  fields: 
+   student_id: 33c1790e119cb0bbca517ef5de689e5b246c0740f4483e23c5b12d44a5d4fbdd
+   student_name_surname: 6d060ff07e7d2694acdc11f135fadc762ba73939d90d13723878ffdba537de30
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 6561
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ Admission
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: มารีย์วิทยา นครราชสีมา
+   student_highschool_gpa: 3.51
+
+- model: academicis_app.Student
+  pk: 1777
+  fields: 
+   student_id: 5d786628716aa86f80fc072276ecd38cb382ff8e2d64837c1c610f9d8cd048f5
+   student_name_surname: 94773b34aea0181d06d2d52c6fe6618d6b0437afca72bb6d67259fcc4549da28
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 6561
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ Admission
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: โรงเรียนราชสีมาวิทยาลัย จังหวัดนครราชสีมา
+   student_highschool_gpa: 3.83
+
+- model: academicis_app.Student
+  pk: 1778
+  fields: 
+   student_id: 224db022913269ab3802cada8e9ca38991e10ad5cd25f2b86ca3be3e90f52b75
+   student_name_surname: f416c35d83e18063c1edac62d99f1380a2ef0f0a077fd7fba8f376f37dacba50
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 6561
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ Admission
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: โรงเรียนมัธยมวัดดุสิตาราม จังหวัดกรุงเทพมหานคร
+   student_highschool_gpa: 3.57
+
+- model: academicis_app.Student
+  pk: 1779
+  fields: 
+   student_id: 7a58dfc9e810595665daba35e10dc37b65f038f3c17864260e500a94058de630
+   student_name_surname: 8913bc4363a057dfa2e08679ddf7052b4941c28c71ede0c3f69321f74f25cc58
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 6561
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ Admission
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: โรงเรียนกุฉินารายณ์ จังหวัดกาฬสินธุ์
+   student_highschool_gpa: 3.91
+
+- model: academicis_app.Student
+  pk: 1780
+  fields: 
+   student_id: 8f859c4e2905a0901c401c3119e82e63c5fe046fc9749d17b053eafddccf913a
+   student_name_surname: 02e30760f0dacb6c2391697b299cec77124f0500e31fac1acf0282c50c4d6acd
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 6561
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ Admission
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: นวมินทราชินูทิศสวนกุหลาบวิทยาลัยสมุทรปราการ
+   student_highschool_gpa: 2.78
+
+- model: academicis_app.Student
+  pk: 1781
+  fields: 
+   student_id: a77f673a26017ac602bd88b00763a960e3d4ed1c68e88b337cfdcb2dbe8000a2
+   student_name_surname: 91995629a63464d5357fad0d0676027302c399da612466336bce759f2521eb5e
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 6561
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ Admission
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: ช่องฟ้าซินเซิงวาณิชบำรุง จ.เชียงใหม่
+   student_highschool_gpa: 3.46
+
+- model: academicis_app.Student
+  pk: 1782
+  fields: 
+   student_id: 9e84d25999f72b3b76b77be7dec27c6514b120be2f8397d48c7263b363f41bb6
+   student_name_surname: b590f73f0c3e6c12e67c2c90fde33b5b7ac8c27f601ce4a28a44617baad3159e
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 6561
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ Admission
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: ไม่มาขึ้นทะเบียนเป็นนักศึกษา (ไปเรียน มทร.ธัญบุรี)
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1783
+  fields: 
+   student_id: aa775e204d5b98d06a7195ee3dbf55eb4b754f7be9ae89b4165d57d21e41866d
+   student_name_surname: 55f0b7a544ea692da6715a61f6a81cf43a4bf3f573f70b4c8f4f24b6937c2873
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 6561
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ Admission
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: โรงเรียนพิจิตรพิทยาคม​ จังหวัดพิจิตร
+   student_highschool_gpa: 3.21
+
+- model: academicis_app.Student
+  pk: 1784
+  fields: 
+   student_id: 5ee2dfd120a922f81c9139724b2f55a0ff3728a918a053f9a6c13beb7507887b
+   student_name_surname: 91e92bad8ee7ecdd1e6f118aa05b73bc7116db044ff73deaeb24b5edee0b84e0
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 6561
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ Admission
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: ราชวินิตบางเเก้ว สมุทรปราการ
+   student_highschool_gpa: 3.08
+
+- model: academicis_app.Student
+  pk: 1785
+  fields: 
+   student_id: abdce8db8935f6e3876300db66c49bd84ea59af47b02e968df814976685dddc7
+   student_name_surname: a7573f94fd5d4b3702389848207d6c209181185cb5a11fca25d6f2fefb9c5d1f
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 6561
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ Admission
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: โรงเรียนสาธิตเทศบาลวัดเพชรจริก
+   student_highschool_gpa: 2.71
+
+- model: academicis_app.Student
+  pk: 1786
+  fields: 
+   student_id: 453ac1a676f47a55127f6b5c7a7eb03e756613d1ba504ac26550ff6c4febd894
+   student_name_surname: f76da7f3f1a34a56b258c96e06ae0782e370f0c885b084f8ecab9a4cbed9bf9f
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 6561
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ Admission
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: โรงเรียนศรียาภัย จังหวัดชุมพร
+   student_highschool_gpa: 3.69
+
+- model: academicis_app.Student
+  pk: 1787
+  fields: 
+   student_id: 0df469714bb9444ca28d013bc24ce01b859c80e774d9373551a2a42615c53c99
+   student_name_surname: 0f8951961ed8872c6620f1b214b539ba250031b7b6c423ea067ff3c84eec28d1
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 6561
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ Admission
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: โรงเรียนธรรมวิทยามูลนิธิ จ.ยะลา
+   student_highschool_gpa: 3.42
+
+- model: academicis_app.Student
+  pk: 1788
+  fields: 
+   student_id: a6f6525a7c2e8e58ae5190fb1d8be7d35ea738a4518f28ad75ecd9f3796dbb63
+   student_name_surname: fe93817647d7db8df1a3082020503504d336d1701d09af1a7ac0dcbeba8a1e4f
+   level: ปริญญาตรี โครงการพิเศษ
+   admitacad_year: 2562
+   applicanttype_id: 6561
+   applicanttype_name: โครงการปริญญาตรีภาคพิเศษ Admission
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: สุราษฎร์พิทยา จ.สุราษฎร์ธานี
+   student_highschool_gpa: 2.86

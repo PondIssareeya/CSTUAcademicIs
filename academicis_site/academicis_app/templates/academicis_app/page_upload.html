@@ -1,0 +1,54 @@
+{% extends 'academicis_app/layout.html'%}
+{% block content %}
+    <h5>การจัดการข้อมูล > อัปโหลดไฟล์ (.csv)</h5>
+    <br>
+    <form action="" method="POST" enctype="multipart/form-data">
+        {% csrf_token %}
+        <label for="fileLabel">ไฟล์สกุล CSV : </label>&nbsp;&nbsp;
+        <input type="file" name="file">
+        <button class="btn btn-outline-info" type="submit">ต่อไป</button>
+    </form>
+    {% if messages %}
+        {% for message in messages %} 
+            {% if message.tags == "error" %}
+                <script>alert("{{message}}")</script>
+                <!-- <strong>
+                    {{message}}
+                </strong> -->
+            {% elif message.tags == "success" %}
+                <form action="{% url 'check_data' %}" method="POST" enctype="multipart/form-data">
+                    {% csrf_token %}
+                    <hr>
+                    <label for="fileLabel">ไฟล์ที่เลือก : </label>&nbsp;&nbsp;
+                    <input type="text" value="{{file}}" disabled><br>
+                    <input type="hidden" name="fileDB" value="{{data}}">
+                    <input type="radio" name="choice" value="student" checked> ตารางนักศึกษา&nbsp;&nbsp;
+                    <input type="radio" name="choice" value="enrollment"> ตารางการลงทะเบียน&nbsp;&nbsp;
+                    <input type="radio" name="choice" value="grade"> ตาราง GPA&nbsp;&nbsp;
+                    <!-- <input type="radio" name="choice" value="status"> ตารางสถานะนักศึกษา -->
+                    <input type="radio" name="choice" value="state"> ตารางสถานภาพนักศึกษา&nbsp;&nbsp;
+                    <input type="radio" name="choice" value="course"> ตารางรายวิชา&nbsp;&nbsp;
+                    <input type="radio" name="choice" value="appType"> ตารางช่องทางเข้าศึกษา&nbsp;
+                    <input type="radio" name="choice" value="plan"> ตารางแผนการรับ&nbsp;&nbsp;
+                    <button class="btn btn-outline-success" style="text-align: right;" type="submit" name="btn" value="upload">อัปโหลด</button>&nbsp;&nbsp;
+                    <button class="btn btn-outline-danger" style="text-align: right;" type="submit" name="btn" value="cancel">ยกเลิก</button>
+                </form> 
+                <br>
+                <strong>
+                    {{message}}
+                </strong>
+                <div style="overflow:auto;">
+                    <table>
+                        {% for item in show %}
+                            <tr>
+                                {% for detail in item %}
+                                    <td>{{detail}}</td>
+                                {% endfor %}
+                            </tr>
+                        {% endfor %}
+                    </table>
+                </div>
+            {% endif %}
+        {% endfor %}
+    {% endif %}
+{% endblock %}

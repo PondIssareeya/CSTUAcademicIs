@@ -1,0 +1,28 @@
+{% extends 'academicis_app/layout.html'%}
+
+{% block content %}
+<h5>ประวัติการทำงาน</h5>
+<form action="{% url 'download_history' %}" method="POST" enctype="multipart/form-data">
+    {% csrf_token %}
+    <div style="text-align: right;">
+      <button class="btn btn-outline-info" type="submit">ดาวน์โหลดประวัติการทำงาน</button>
+    </div>
+</form>
+<br>
+<table>
+    <thead>
+        <tr>
+            <th style="width: 20%;">วัน เวลา</th>
+            <th style="width: 20%;">ผู้ใช้</th>
+            <th style="width: 60%;">กิจกรรม</th>
+        </tr>
+    </thead>
+    {% for x in show %}
+        <tr>
+            <td>{{x.time}}</td>
+            <td>{{x.name}}</td>
+            <td>{{x.activity}}</td>
+        </tr>
+    {% endfor %}
+</table>
+{% endblock %}

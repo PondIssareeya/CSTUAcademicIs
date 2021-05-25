@@ -1,0 +1,831 @@
+﻿# File created by Easy Data Transform v1.8.1 at 2021-02-08 17:13:47.
+
+- model: academicis_app.Status
+  pk: 1
+  fields: 
+   student_id: bc3ed64781e3734b6543095afe631bac4df346103a22f901af9b6e6a65d7b325
+   student_name_surname: 8e703b028fde081ed4c5f892bbfc5243c1aed11d7bb4a2c5eeaaa72dc72cccab
+   semester: 1
+   academic_year: 2561
+   status: Warning 2
+   grade: 1.76
+
+- model: academicis_app.Status
+  pk: 2
+  fields: 
+   student_id: 7266ef5d5785b98d27e29651f87c6f1a9575ee4b2ed8ce0164dc31e46dd3b955
+   student_name_surname: 3f598279813f6aa833bf954250e538e5f86114d51fcffb145cceaa5ba732775b
+   semester: 1
+   academic_year: 2561
+   status: Warning 2
+   grade: 1.73
+
+- model: academicis_app.Status
+  pk: 3
+  fields: 
+   student_id: 16de760184e7874fdcf7d25fd9bc8586c0b81b565c1eaf059d1864ac5ec1d084
+   student_name_surname: 736b1c651be3d2b9e2876ea82bd021ba295bb5122fa7ec4f9ad4208764d47209
+   semester: 1
+   academic_year: 2561
+   status: Warning 1
+   grade: 1.89
+
+- model: academicis_app.Status
+  pk: 4
+  fields: 
+   student_id: 48ea0251b49ad5ecad826dd8acb63a559cd4ed4b86f178dfe4e028306cde3fe4
+   student_name_surname: 4451905c7f687ed5c5c429a47b6b44fea83fce1643cf9f07d895778d1af5eb1c
+   semester: 1
+   academic_year: 2561
+   status: Warning
+   grade: 0.92
+
+- model: academicis_app.Status
+  pk: 5
+  fields: 
+   student_id: 6f806ce8ebbbb2501abe30fe0fbce88c11d5008b3d835c6752596a98e39c2ab5
+   student_name_surname: 6cfe88460fee059a99d636152857dc197ac2108585fb07219f0f04d6e3c47159
+   semester: 1
+   academic_year: 2561
+   status: Warning
+   grade: 1.5
+
+- model: academicis_app.Status
+  pk: 6
+  fields: 
+   student_id: bc3ed64781e3734b6543095afe631bac4df346103a22f901af9b6e6a65d7b325
+   student_name_surname: 8e703b028fde081ed4c5f892bbfc5243c1aed11d7bb4a2c5eeaaa72dc72cccab
+   semester: 2
+   academic_year: 2561
+   status: Probation
+   grade: 1.98
+
+- model: academicis_app.Status
+  pk: 7
+  fields: 
+   student_id: 7266ef5d5785b98d27e29651f87c6f1a9575ee4b2ed8ce0164dc31e46dd3b955
+   student_name_surname: 3f598279813f6aa833bf954250e538e5f86114d51fcffb145cceaa5ba732775b
+   semester: 2
+   academic_year: 2561
+   status: Probation
+   grade: 1.93
+
+- model: academicis_app.Status
+  pk: 8
+  fields: 
+   student_id: 16de760184e7874fdcf7d25fd9bc8586c0b81b565c1eaf059d1864ac5ec1d084
+   student_name_surname: 736b1c651be3d2b9e2876ea82bd021ba295bb5122fa7ec4f9ad4208764d47209
+   semester: 2
+   academic_year: 2561
+   status: Warning 2
+   grade: 1.79
+
+- model: academicis_app.Status
+  pk: 9
+  fields: 
+   student_id: e1cc565395645f3b1a328d41159bf4bc2c39e2d9c2b1cf7fe2b3794533acf367
+   student_name_surname: a9a183fff228942bc9ff759fb206277050c643c62afa9a0d0e8b9d7f0e4193fe
+   semester: 2
+   academic_year: 2561
+   status: Warning 1
+   grade: 1.84
+
+- model: academicis_app.Status
+  pk: 10
+  fields: 
+   student_id: 48ea0251b49ad5ecad826dd8acb63a559cd4ed4b86f178dfe4e028306cde3fe4
+   student_name_surname: 4451905c7f687ed5c5c429a47b6b44fea83fce1643cf9f07d895778d1af5eb1c
+   semester: 2
+   academic_year: 2561
+   status: Warning 1
+   grade: 1.58
+
+- model: academicis_app.Status
+  pk: 11
+  fields: 
+   student_id: e1cc565395645f3b1a328d41159bf4bc2c39e2d9c2b1cf7fe2b3794533acf367
+   student_name_surname: a9a183fff228942bc9ff759fb206277050c643c62afa9a0d0e8b9d7f0e4193fe
+   semester: 1
+   academic_year: 2562
+   status: Warning 2
+   grade: 1.96
+
+- model: academicis_app.Status
+  pk: 12
+  fields: 
+   student_id: 48ea0251b49ad5ecad826dd8acb63a559cd4ed4b86f178dfe4e028306cde3fe4
+   student_name_surname: 4451905c7f687ed5c5c429a47b6b44fea83fce1643cf9f07d895778d1af5eb1c
+   semester: 1
+   academic_year: 2562
+   status: Warning 2
+   grade: 1.55
+
+- model: academicis_app.Status
+  pk: 13
+  fields: 
+   student_id: 6f806ce8ebbbb2501abe30fe0fbce88c11d5008b3d835c6752596a98e39c2ab5
+   student_name_surname: 6cfe88460fee059a99d636152857dc197ac2108585fb07219f0f04d6e3c47159
+   semester: 1
+   academic_year: 2562
+   status: Warning 1
+   grade: 1.92
+
+- model: academicis_app.Status
+  pk: 14
+  fields: 
+   student_id: a9937a169f28503c1c2d6007fb83dc9ef3b17ce7c5c219225d56903c4e1ff754
+   student_name_surname: a0c89a9fd5c5cf4857c1c79a918d230158341f2a10cb668b55ce7d3dd4839890
+   semester: 1
+   academic_year: 2562
+   status: Warning
+   grade: 1.7
+
+- model: academicis_app.Status
+  pk: 15
+  fields: 
+   student_id: 48ea0251b49ad5ecad826dd8acb63a559cd4ed4b86f178dfe4e028306cde3fe4
+   student_name_surname: 4451905c7f687ed5c5c429a47b6b44fea83fce1643cf9f07d895778d1af5eb1c
+   semester: 2
+   academic_year: 2562
+   status: Warning 2
+   grade: 1.5
+
+- model: academicis_app.Status
+  pk: 16
+  fields: 
+   student_id: 6f806ce8ebbbb2501abe30fe0fbce88c11d5008b3d835c6752596a98e39c2ab5
+   student_name_surname: 6cfe88460fee059a99d636152857dc197ac2108585fb07219f0f04d6e3c47159
+   semester: 2
+   academic_year: 2562
+   status: Warning 1
+   grade: 1.92
+
+- model: academicis_app.Status
+  pk: 17
+  fields: 
+   student_id: 7266ef5d5785b98d27e29651f87c6f1a9575ee4b2ed8ce0164dc31e46dd3b955
+   student_name_surname: 3f598279813f6aa833bf954250e538e5f86114d51fcffb145cceaa5ba732775b
+   semester: 1
+   academic_year: 2563
+   status: Warning 1
+   grade: 1.93
+
+- model: academicis_app.Status
+  pk: 18
+  fields: 
+   student_id: 16de760184e7874fdcf7d25fd9bc8586c0b81b565c1eaf059d1864ac5ec1d084
+   student_name_surname: 736b1c651be3d2b9e2876ea82bd021ba295bb5122fa7ec4f9ad4208764d47209
+   semester: 1
+   academic_year: 2563
+   status: Warning 1
+   grade: 1.99
+
+- model: academicis_app.Status
+  pk: 19
+  fields: 
+   student_id: e1cc565395645f3b1a328d41159bf4bc2c39e2d9c2b1cf7fe2b3794533acf367
+   student_name_surname: a9a183fff228942bc9ff759fb206277050c643c62afa9a0d0e8b9d7f0e4193fe
+   semester: 1
+   academic_year: 2563
+   status: Warning 1
+   grade: 1.91
+
+- model: academicis_app.Status
+  pk: 20
+  fields: 
+   student_id: 48ea0251b49ad5ecad826dd8acb63a559cd4ed4b86f178dfe4e028306cde3fe4
+   student_name_surname: 4451905c7f687ed5c5c429a47b6b44fea83fce1643cf9f07d895778d1af5eb1c
+   semester: 1
+   academic_year: 2563
+   status: Probation
+   grade: 1.64
+
+- model: academicis_app.Status
+  pk: 21
+  fields: 
+   student_id: 6f806ce8ebbbb2501abe30fe0fbce88c11d5008b3d835c6752596a98e39c2ab5
+   student_name_surname: 6cfe88460fee059a99d636152857dc197ac2108585fb07219f0f04d6e3c47159
+   semester: 1
+   academic_year: 2563
+   status: Warning 2
+   grade: 1.96
+
+- model: academicis_app.Status
+  pk: 22
+  fields: 
+   student_id: 2145aed447b2814f0a88bdc759077743f76bce98cc1f55ea52c868e6f235cea6
+   student_name_surname: 9a5d50f491b287aef6eeb32bd6cbde703aa0edf86b09d7b7215e7fc3e3a1abaa
+   semester: 1
+   academic_year: 2563
+   status: Warning 1
+   grade: 1.79
+
+- model: academicis_app.Status
+  pk: 23
+  fields: 
+   student_id: 896450ec7dbe665dc0a8abbd8fb229605cac66f6eea51f8443a8206b721f674c
+   student_name_surname: 872ecf638201409306aac7cfb87b1f5951f80cddb1ba6e53e2cc5d3c2bbd877e
+   semester: 1
+   academic_year: 2563
+   status: Warning 1
+   grade: 1.91
+
+- model: academicis_app.Status
+  pk: 24
+  fields: 
+   student_id: 1b219415b458a0bd4ec923b727c7837ac925782b9eba544141f95546d908203a
+   student_name_surname: c924a4bf322c66a4fc11def64676246cfaa42f12558d8ee5c110931583916fe0
+   semester: 1
+   academic_year: 2563
+   status: Warning 1
+   grade: 1.34
+
+- model: academicis_app.Status
+  pk: 25
+  fields: 
+   student_id: 3402657a4b98aabb993b19724eef36ffb7f8c6594020d15e218a8bf9e7d7e635
+   student_name_surname: 2dedbce232bfd60c7f024811203e25ecede4a8eac9b40c1140096485d1fa8d3f
+   semester: 1
+   academic_year: 2563
+   status: Warning 1
+   grade: 1.78
+
+- model: academicis_app.Status
+  pk: 26
+  fields: 
+   student_id: 69d2bead9aa138492973ceb48a133ca5310eee60c895e0a376613ea4ddf653ed
+   student_name_surname: 6afc7b3065349db38e0b4fc1de091f424a1ffe8b6df488f57adb856f820537b8
+   semester: 1
+   academic_year: 2563
+   status: Warning
+   grade: 1.67
+
+- model: academicis_app.Status
+  pk: 27
+  fields: 
+   student_id: 8128a47eb5e11f21516dee36a0dff18e93c4198c0117b71791cdd73fc14c77a2
+   student_name_surname: a2cf8e2d4c391a89d0651625bb8900c0970b78e93d4942028bae9b346236676e
+   semester: 1
+   academic_year: 2563
+   status: Warning
+   grade: 1.92
+
+- model: academicis_app.Status
+  pk: 28
+  fields: 
+   student_id: cffddc27d3204bc865f0be774079256aae8485f5b0e8552fa2ecd675756ba43b
+   student_name_surname: 691eb99a3ae8dc66945f3590636d277dbd26857a5349f08088c580627330c7c8
+   semester: 1
+   academic_year: 2563
+   status: Warning
+   grade: 1.33
+
+- model: academicis_app.Status
+  pk: 29
+  fields: 
+   student_id: b8c08cb74ee679e6b9c8b801a99179af31121e2aea1afb5b654308d9821114b2
+   student_name_surname: 30105d832085aab1051383166bad30a0123a9a18894a706bdb0287cf28debc35
+   semester: 1
+   academic_year: 2563
+   status: Warning
+   grade: 1.67
+
+- model: academicis_app.Status
+  pk: 30
+  fields: 
+   student_id: 524416f724c8f40b83e2d731a3dedd6362ea6ce0c6417ea320b6d8841c02420c
+   student_name_surname: b12d3108a2cabb91c16841d79f61f84006d55c9d35200cf8658cb4f122502287
+   semester: 1
+   academic_year: 2563
+   status: Warning
+   grade: 1.83
+
+- model: academicis_app.Status
+  pk: 31
+  fields: 
+   student_id: b0b4d4d8fa9fd20a6803b4234fb970e67249af099567e07906541720b950bcf6
+   student_name_surname: 68b51bd274458781adf8c7a514d9acc5632995686626dab5b3be00b30069a63e
+   semester: 1
+   academic_year: 2563
+   status: Warning
+   grade: 1.67
+
+- model: academicis_app.Status
+  pk: 32
+  fields: 
+   student_id: 47f0e743d8d511ef32a3cc07b4b9b8f6b0a76e3e6152aa9499aab2bb9ba56fb4
+   student_name_surname: 407015d99311222e0aef93b33358293601b86ebd4ffa7ee9f488459b32100383
+   semester: 1
+   academic_year: 2563
+   status: Warning
+   grade: 1.7
+
+- model: academicis_app.Status
+  pk: 33
+  fields: 
+   student_id: d75c3c9797deef995c9644a0241234f895921d40f0c7b773011237ede1605dee
+   student_name_surname: 0dad3305d2be5f6cd69a8d88a76bcdd644f9678b5539a8fd2f6dd401d6969953
+   semester: 1
+   academic_year: 2563
+   status: Warning
+   grade: 0.4
+
+- model: academicis_app.Status
+  pk: 34
+  fields: 
+   student_id: 8b718f99b0e42bfa317a08c1f4845bfafd60d19c70f3e07e826fce4b57f90c72
+   student_name_surname: 44b9f045746616be128d842ca6b5fa46beb7b20dbb5832a1c93648ef04b5bdb4
+   semester: 1
+   academic_year: 2563
+   status: Warning
+   grade: 1.42
+
+- model: academicis_app.Status
+  pk: 35
+  fields: 
+   student_id: 5ca09d9073e0e04043ee1301b9644f31647f09ddb17936f557b4511111f5c2ee
+   student_name_surname: 77727fdfdaf4ca7f05d684d139aae65e1ae56f88906cc25eaccc1e1059070391
+   semester: 1
+   academic_year: 2563
+   status: Warning
+   grade: 1.08
+
+- model: academicis_app.Status
+  pk: 36
+  fields: 
+   student_id: 99542d650bcc7f05007756a1ab37ecba5569e8a7e73b7171c38761f7fcb32e4a
+   student_name_surname: 3dba7c29a1b387faab2a46c2b3e022d090658de66f150b3ccb78776e4efd679c
+   semester: 1
+   academic_year: 2563
+   status: Warning
+   grade: 1.5
+
+- model: academicis_app.Status
+  pk: 37
+  fields: 
+   student_id: ece3440313c23ff0b864d3785be04588ff4aa12894e03287bd5ce6b425cedebb
+   student_name_surname: 5f83cefc9a5e8ac194f93c98c011000f18222015c2cd50c17b4ba4ef7c321d5a
+   semester: 1
+   academic_year: 2563
+   status: Warning
+   grade: 1.5
+
+- model: academicis_app.Status
+  pk: 38
+  fields: 
+   student_id: 2677a4776d97b2383349689d840eeda3c33d99684f1fb833c8801c9b3351c3a1
+   student_name_surname: 31c9371b9053dba6d38ebd174b2346606b194824fe28aa26de716620094dcbf4
+   semester: 1
+   academic_year: 2563
+   status: Warning
+   grade: 1.6
+
+- model: academicis_app.Status
+  pk: 39
+  fields: 
+   student_id: de00527cce672577881c68466a744a5d4cd17320ccc6e524a9c9c6a33a918764
+   student_name_surname: f67d2ebbb7273ceeac60491750949d2b5af0086ca79d23507276cae7fb4680f3
+   semester: 1
+   academic_year: 2563
+   status: Warning
+   grade: 1.08
+
+- model: academicis_app.Status
+  pk: 40
+  fields: 
+   student_id: 2d810b0a92eec603742eb5543bef253044d4d73d68c64e687945cb3cc3e80f04
+   student_name_surname: 56ab57bad8fcd9d4399906c617e2033a050f4a59eb77694a3c2053eefc6b4cee
+   semester: 1
+   academic_year: 2563
+   status: Warning
+   grade: 1.93
+
+- model: academicis_app.Status
+  pk: 41
+  fields: 
+   student_id: eaee449879f477058dbb98123b5a74dad16f62b394bb7de4ecaca3969ae1aa51
+   student_name_surname: 0d941159a588bd435d48cdf09ca4ad895f249957c64ecd841d118f8fec28e822
+   semester: 1
+   academic_year: 2563
+   status: Warning
+   grade: 1.33
+
+- model: academicis_app.Status
+  pk: 42
+  fields: 
+   student_id: 2de09f954f9d674d4893ce9e30fc637e52d7f28c6f6332d0113f4818f527f986
+   student_name_surname: d534c8f10b8efd84d7d2e990c511a42944071e5a4b237b1894450261d72a2e8f
+   semester: 1
+   academic_year: 2563
+   status: Warning
+   grade: 1.5
+
+- model: academicis_app.Status
+  pk: 43
+  fields: 
+   student_id: e7e509f5742abf3822a0808c2fd807dc443e6f7eb3fc5999fbf964c8848937a9
+   student_name_surname: b47e3f5c99b7ccb2a653dc23756ec5e4c0782b3c27580fd890993f0c819ced99
+   semester: 1
+   academic_year: 2563
+   status: Warning
+   grade: 1.42
+
+- model: academicis_app.Status
+  pk: 44
+  fields: 
+   student_id: d34760bc7d7c875663fc126a365c0bce1a93791941f6e5a87d475ffda25bf97f
+   student_name_surname: 94ab994c15bc36a3980c44cee66db0dc244982fb1bdf038f524666d7ebb71560
+   semester: 1
+   academic_year: 2563
+   status: Warning
+   grade: 1.75
+
+- model: academicis_app.Status
+  pk: 45
+  fields: 
+   student_id: b65939d082693689de620b6ddbfdf0f6d9396533067515964775094ba6a6fe78
+   student_name_surname: 9e9320d5a53cb832b2178d6ad0b9fb390f5db0cb59c0847d649042e70c4b32d8
+   semester: 1
+   academic_year: 2563
+   status: Warning
+   grade: 0.83
+
+- model: academicis_app.Status
+  pk: 46
+  fields: 
+   student_id: 43cb0033268f5c02f6edac37f15277f4fe3d4cba29de26a63952ecf97faaeede
+   student_name_surname: 5e50b12a3b003b57af6b8cb967a5f5300ed47d8ac58c01c3e6611744f530dec4
+   semester: 1
+   academic_year: 2563
+   status: Warning
+   grade: 1.64
+
+- model: academicis_app.Status
+  pk: 47
+  fields: 
+   student_id: 409dfb2b79935f127b111680c0e83dda2056ae1363b2e63ee6f1be15e33d62aa
+   student_name_surname: c15165f21f91686495bb70efb83697071ee74f1ee6a8a1dc2cb563caa98bf13f
+   semester: 1
+   academic_year: 2563
+   status: Warning
+   grade: 1.75
+
+- model: academicis_app.Status
+  pk: 48
+  fields: 
+   student_id: b198757af1116dc79c570560cd3342c50494f30e9c7787088326c19166c9820f
+   student_name_surname: 0435d8040ffaf174652e48c69748568d11a77433540e5c41d1523b5eeb86a494
+   semester: 1
+   academic_year: 2563
+   status: Warning
+   grade: 1.25
+
+- model: academicis_app.Status
+  pk: 49
+  fields: 
+   student_id: 59e88542b9e76074fe2778be1a39d3936b18688921085afec67eeae6a104deef
+   student_name_surname: a2d57ff82826adf01f0682248cd8aadc819c31b171083b2b350a8e342b387625
+   semester: 1
+   academic_year: 2563
+   status: Warning
+   grade: 1.75
+
+- model: academicis_app.Status
+  pk: 50
+  fields: 
+   student_id: cc80a6acf9632978e45bfac61b10359ad9d4d767793a7e27a74aa1ab375722a8
+   student_name_surname: 3c41a62dc61e4f4fa11081e9570f1e754e4d66f945bf94121d3292598e4e9e95
+   semester: 2
+   academic_year: 2561
+   status: Warning 1
+   grade: 1.96
+
+- model: academicis_app.Status
+  pk: 51
+  fields: 
+   student_id: 811ad8b9ca0e4c38b969ef4d9a9697c29fb14086179a928c5aba4e07a053f9b5
+   student_name_surname: 0a682cd2aa1a738293c345e16b0c43790c6ecdc5312caf5ba2c046f0e41fe344
+   semester: 1
+   academic_year: 2562
+   status: Warning 1
+   grade: 1.97
+
+- model: academicis_app.Status
+  pk: 52
+  fields: 
+   student_id: cc80a6acf9632978e45bfac61b10359ad9d4d767793a7e27a74aa1ab375722a8
+   student_name_surname: 3c41a62dc61e4f4fa11081e9570f1e754e4d66f945bf94121d3292598e4e9e95
+   semester: 1
+   academic_year: 2562
+   status: Warning 2
+   grade: 1.58
+
+- model: academicis_app.Status
+  pk: 53
+  fields: 
+   student_id: 1e048fbcf11de34a87dfe5c83eb38637830d7ee33a19952893285ccbefd0867a
+   student_name_surname: aa4dd7b13ae4f9ba024635175583c02afec6794bdd9ff203fbd3b6f7bcf4d80c
+   semester: 1
+   academic_year: 2562
+   status: Warning
+   grade: 1.92
+
+- model: academicis_app.Status
+  pk: 54
+  fields: 
+   student_id: efe10ca5c702d3d696ba84e888cda686feca80457618a38cb00707b4539bbaea
+   student_name_surname: 8926a92022de8679d13d30bc736a597355249de0815fe7a5c7736eaf99171753
+   semester: 1
+   academic_year: 2562
+   status: Warning
+   grade: 1.67
+
+- model: academicis_app.Status
+  pk: 55
+  fields: 
+   student_id: feef4d24af584b60d7daa038c90b5d65070619a517d737b70f7d873cd4f08571
+   student_name_surname: f246ec5706b73efe88ec348bd428ca12e311c91efb554b1cadc3a7410515f5b6
+   semester: 1
+   academic_year: 2562
+   status: Warning
+   grade: 1.42
+
+- model: academicis_app.Status
+  pk: 56
+  fields: 
+   student_id: cc80a6acf9632978e45bfac61b10359ad9d4d767793a7e27a74aa1ab375722a8
+   student_name_surname: 3c41a62dc61e4f4fa11081e9570f1e754e4d66f945bf94121d3292598e4e9e95
+   semester: 2
+   academic_year: 2562
+   status: Warning 2
+   grade: 1.72
+
+- model: academicis_app.Status
+  pk: 57
+  fields: 
+   student_id: 811ad8b9ca0e4c38b969ef4d9a9697c29fb14086179a928c5aba4e07a053f9b5
+   student_name_surname: 0a682cd2aa1a738293c345e16b0c43790c6ecdc5312caf5ba2c046f0e41fe344
+   semester: 1
+   academic_year: 2563
+   status: Warning 2
+   grade: 1.91
+
+- model: academicis_app.Status
+  pk: 58
+  fields: 
+   student_id: cc80a6acf9632978e45bfac61b10359ad9d4d767793a7e27a74aa1ab375722a8
+   student_name_surname: 3c41a62dc61e4f4fa11081e9570f1e754e4d66f945bf94121d3292598e4e9e95
+   semester: 1
+   academic_year: 2563
+   status: Probation
+   grade: 1.79
+
+- model: academicis_app.Status
+  pk: 59
+  fields: 
+   student_id: d8b35a88c07e632cbfbdb93e91dbae3795d584a9f0d2be9b4ce86e72bd285435
+   student_name_surname: 0790289df6bb8c2cd5c0af3de882852e13955ca33e0d7363477493e7c945f451
+   semester: 1
+   academic_year: 2563
+   status: Warning 1
+   grade: 1.36
+
+- model: academicis_app.Status
+  pk: 60
+  fields: 
+   student_id: e876c68fbcd063aecdff78a8532b68f301ecbfd8171a2d7c62ef1079a87684b9
+   student_name_surname: 9e1b4cb6ee83cf6c43ba36eb920a80504f12eea8e2c365b665a316af95cd6e4c
+   semester: 1
+   academic_year: 2563
+   status: Warning 1
+   grade: 1.97
+
+- model: academicis_app.Status
+  pk: 61
+  fields: 
+   student_id: efe10ca5c702d3d696ba84e888cda686feca80457618a38cb00707b4539bbaea
+   student_name_surname: 8926a92022de8679d13d30bc736a597355249de0815fe7a5c7736eaf99171753
+   semester: 1
+   academic_year: 2563
+   status: Warning 1
+   grade: 1.94
+
+- model: academicis_app.Status
+  pk: 62
+  fields: 
+   student_id: feef4d24af584b60d7daa038c90b5d65070619a517d737b70f7d873cd4f08571
+   student_name_surname: f246ec5706b73efe88ec348bd428ca12e311c91efb554b1cadc3a7410515f5b6
+   semester: 1
+   academic_year: 2563
+   status: Warning 1
+   grade: 1.77
+
+- model: academicis_app.Status
+  pk: 63
+  fields: 
+   student_id: 50fd8bc075de06ad200090036457a1a885e3e28ccb3ee29b8d46963496606df6
+   student_name_surname: 56f913c2752c44623755a47eb30feeb7b8771a5ade5139a187e55a63faca3f73
+   semester: 1
+   academic_year: 2563
+   status: Warning
+   grade: 1.63
+
+- model: academicis_app.Status
+  pk: 64
+  fields: 
+   student_id: 11bf30a7268fb4602efc82b76480a53c94fd36eb2a61e624df731ac223dd0f20
+   student_name_surname: 8e0e673b14aaa05e5860a260b9f043ca879f7a008158b2ef4fb1cfdb9c98b9d0
+   semester: 1
+   academic_year: 2563
+   status: Warning
+   grade: 1.5
+
+- model: academicis_app.Status
+  pk: 65
+  fields: 
+   student_id: 341335b36351c9b0665fc9eea213e424203a7f8dbc70d850f6d9bf8e38d711c4
+   student_name_surname: f4c5098c930e73628a88e76d5b96be4ac8b4d9b5aea0cf5c136c37250054f7d4
+   semester: 1
+   academic_year: 2563
+   status: Warning
+   grade: 1.92
+
+- model: academicis_app.Status
+  pk: 66
+  fields: 
+   student_id: d08cbba813d7e93d925227669f54c3bd812a3f31350f95111511303f83dcdd8b
+   student_name_surname: ceaefa79743a530e6f2434a7d8b00fba89a96b8fcd9acd65ebd6078f59383951
+   semester: 1
+   academic_year: 2563
+   status: Warning
+   grade: 1.42
+
+- model: academicis_app.Status
+  pk: 67
+  fields: 
+   student_id: 05fc463e3e75f405f7eb2935c6e8face9685ff086bd68309ca46120324266cad
+   student_name_surname: 734349dc2fd0e747192d8df76f23ba38bf48d007478f2191f2356a2c83263b9d
+   semester: 1
+   academic_year: 2563
+   status: Warning
+   grade: 1.88
+
+- model: academicis_app.Status
+  pk: 68
+  fields: 
+   student_id: 0c01db248f82a22fd7ee3996b069fa881933839cc44fd57150fb62275519bfd6
+   student_name_surname: a8db0b4f52d80a766730cc35b75877fc9d6d7dfe490749790ae0c19d670aad9f
+   semester: 1
+   academic_year: 2563
+   status: Warning
+   grade: 1.8
+
+- model: academicis_app.Status
+  pk: 69
+  fields: 
+   student_id: e5baac443ecbc8ece6d0f234c1907bd7c8c4c0aacfadbcb946da59ca2cf40f13
+   student_name_surname: 03fb885a65e0c982028359538c95bc6b7e62a8ad546ede0050b5f626d44debb0
+   semester: 1
+   academic_year: 2563
+   status: Warning
+   grade: 0
+
+- model: academicis_app.Status
+  pk: 70
+  fields: 
+   student_id: c1b6232a169b594c88b1cf399ad144b23272b5291f8af5d7e160f878830204ed
+   student_name_surname: f7181540061f3ac78b802116319e022bef21e9994423b82cbb4abdc4e73b1991
+   semester: 1
+   academic_year: 2563
+   status: Warning
+   grade: 1.93
+
+- model: academicis_app.Status
+  pk: 71
+  fields: 
+   student_id: 74b17fc08dd3484a8ca59659db6a7e10b7e5af88273197e9f388a75b32010fd3
+   student_name_surname: 62b41b5e803a832289f8a84c58036e973803705a524e191a0c5010124c9a9ee1
+   semester: 1
+   academic_year: 2563
+   status: Warning
+   grade: 1.67
+
+- model: academicis_app.Status
+  pk: 72
+  fields: 
+   student_id: 9dac733029dd02414bc0c5d3bd7bc68c864666a3a3d5dc9c926a2c88347c87c2
+   student_name_surname: 2927075f6aed019471a9276179107800958ff2a4707fdab86df127b99cd7633f
+   semester: 1
+   academic_year: 2563
+   status: Warning
+   grade: 1.83
+
+- model: academicis_app.Status
+  pk: 73
+  fields: 
+   student_id: 586873b7517a99459f6af47b55855d161e0707112416b7a5dca53d188d94f65e
+   student_name_surname: 6e59c73b8ad051332b2062f9833d64de148d71063441e983786d850ff8a486bb
+   semester: 1
+   academic_year: 2563
+   status: Warning
+   grade: 1.83
+
+- model: academicis_app.Status
+  pk: 74
+  fields: 
+   student_id: b8897eaa5cfe08a128dd4ec7f8a86121fc3a17aad51d87d009217bc50db52471
+   student_name_surname: 54aad0822ef790060abc318b4b1723f185b8461fae256916780311a73d682580
+   semester: 1
+   academic_year: 2563
+   status: Warning
+   grade: 1.79
+
+- model: academicis_app.Status
+  pk: 75
+  fields: 
+   student_id: 86cddd7a0cba5524f8ef69a340d01840e6aca62ebe01821aba59491e7750e368
+   student_name_surname: 0504922b242333541987857f6f26120ebf1958bd876cab55b2b6a6825cae0eae
+   semester: 1
+   academic_year: 2563
+   status: Warning
+   grade: 1.93
+
+- model: academicis_app.Status
+  pk: 76
+  fields: 
+   student_id: 6f1b57a458ebcf55fad5e88fbac9b4339b74f1705cdd96429707832b52e2212a
+   student_name_surname: abb366f7f9f94c428607f3f3839eab97826978edf1e003f4db0d7a270c6de2aa
+   semester: 1
+   academic_year: 2563
+   status: Warning
+   grade: 1.92
+
+- model: academicis_app.Status
+  pk: 77
+  fields: 
+   student_id: 99438b5c51f381c0b6651ae5f318cadde2e49a2163817ed184b6081748d52000
+   student_name_surname: 3bc204cd7ed812f6ebe34a44413daaaff7359c8402d11b9fe3377e6dbe78cbc4
+   semester: 1
+   academic_year: 2563
+   status: Warning
+   grade: 1.9
+
+- model: academicis_app.Status
+  pk: 78
+  fields: 
+   student_id: 08a0fcb3196402e523b491a1d3e28cdb87b9b9f37c030518f204f54d5904fc19
+   student_name_surname: 59fe1871af7a77109dcb56d7590d6a43b0c3f366aa146392fa0e8ad435d2f24d
+   semester: 1
+   academic_year: 2563
+   status: Warning
+   grade: 1.5
+
+- model: academicis_app.Status
+  pk: 79
+  fields: 
+   student_id: 6254a9361b586cdaf109ce2c7892758f7b22551236b72465f7d5d7bc81627a6c
+   student_name_surname: 8e112db59e408fffe200761bc4e2e2fa08425bd0ed6c139261171cf66caba8a3
+   semester: 1
+   academic_year: 2562
+   status: Warning
+   grade: 1.75
+
+- model: academicis_app.Status
+  pk: 80
+  fields: 
+   student_id: 6254a9361b586cdaf109ce2c7892758f7b22551236b72465f7d5d7bc81627a6c
+   student_name_surname: 8e112db59e408fffe200761bc4e2e2fa08425bd0ed6c139261171cf66caba8a3
+   semester: 1
+   academic_year: 2563
+   status: Warning 1
+   grade: 1.92
+
+- model: academicis_app.Status
+  pk: 81
+  fields: 
+   student_id: 16d25f6f0cb260cfbac7aa1c896c1cc4342848d7cb8494dae7bc003a3eb74c82
+   student_name_surname: 015c39b1f95a575d47beb299fd1a9f62e2d06125a6c9dfcf74fe586e8750086c
+   semester: 1
+   academic_year: 2563
+   status: Warning
+   grade: 1.42
+
+- model: academicis_app.Status
+  pk: 82
+  fields: 
+   student_id: 5d5f52199e3acf65299730fcf2c374e77dc1d0290cd2ad95fcd719fb63efe923
+   student_name_surname: a5b56007543479c73741a050935b3bc8594c69c1e6e3bd6b9b7b2279b3c42e95
+   semester: 1
+   academic_year: 2563
+   status: Warning
+   grade: 1.67
+
+- model: academicis_app.Status
+  pk: 83
+  fields: 
+   student_id: 946ed963201b57d3787e55194e6a994783f2b0980b60c9ad58a6a2e12d4b5ba6
+   student_name_surname: 0582fefbbe3a6d51a3ab9bd400391a89ccbcfe4511da302402d8fe1e08219fb7
+   semester: 1
+   academic_year: 2563
+   status: Warning
+   grade: 1.83

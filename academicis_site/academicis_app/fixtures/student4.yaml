@@ -1,0 +1,2157 @@
+﻿# File created by Easy Data Transform v1.8.1 at 2021-02-08 02:43:46.
+
+- model: academicis_app.Student
+  pk: 1789
+  fields: 
+   student_id: 62fa0c7cb854bdc955871a2ecd2337d401163e1cac72546258b8d491bee50d97
+   student_name_surname: 36950bd355e4a45569d0e63973145eecf51b178a8481f85e2a6c77022808e143
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 5201
+   applicanttype_name: โครงการธรรมศาสตร์ช้างเผือก
+   applicanttype_name_morespecific: โครงการนักศึกษาเรียนดีจากชนบท
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1790
+  fields: 
+   student_id: 082be2c9b9e648414671342b367f2094da024c8cf3f637a89afa4fd19f24974c
+   student_name_surname: 3c164af6ca9deb17f06100ef20fa1f4b1c99a155efd487db37143a1f0c7c284c
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 54
+   applicanttype_name: โครงการส่งเสริมนักเรียนเรียนดีภาคกลาง
+   applicanttype_name_morespecific: โครงการนักศึกษาเรียนดีจากภาคกลาง
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1791
+  fields: 
+   student_id: 5434cac01d77d9d2815c24ea7acc85f3b7a889871448090902c689247bfb7b74
+   student_name_surname: 80f48e26fd146629d3faedf768588e1f5d29bd80b8648b41e3423f3ea7720531
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 54
+   applicanttype_name: โครงการส่งเสริมนักเรียนเรียนดีภาคกลาง
+   applicanttype_name_morespecific: โครงการนักศึกษาเรียนดีจากภาคกลาง
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1792
+  fields: 
+   student_id: 235a61bfcc78b691fba713a7820578d36afac3f8fa5247619733442981c3a3c6
+   student_name_surname: 5d6f53355caa9592b1bfd2c90aa66c03585a924fa883a5d75e9ebc611fa785b8
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 54
+   applicanttype_name: โครงการส่งเสริมนักเรียนเรียนดีภาคกลาง
+   applicanttype_name_morespecific: โครงการนักศึกษาเรียนดีจากภาคกลาง
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1793
+  fields: 
+   student_id: fba8d3914913a387fa83f829b30c551f24417d851852e4d52ea7ca97e20230ee
+   student_name_surname: 1158fa3b42a4e37f7e85729ae9c5cf28a565a700b8327d80574adb0b1b1b2e8c
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 61
+   applicanttype_name: Admissions
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1794
+  fields: 
+   student_id: 72229ba4d82953d422c8b788150ad7f73d95c54bf259f99fb2cdec69e16198ca
+   student_name_surname: 996c9b831b03add14d72afdf022ad76ce87dda4dcc49c10af35ad321671dafb8
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 61
+   applicanttype_name: Admissions
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1795
+  fields: 
+   student_id: b4cd8a1f445de5ffe1bc2902a24e74e65257c10eec63e54720a9dfa872bc040a
+   student_name_surname: ff25afadbb016f034085aa7c4a5a1c75ae774de94791abe05a93760445ff92c8
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 61
+   applicanttype_name: Admissions
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1796
+  fields: 
+   student_id: 2d82df2cd539f58a60a8517c064ecc5f3874032257bf2ae4c2939cb1bc7cd00e
+   student_name_surname: 87e441651b9c0ed3cf83214c6b7d065812e0fce4511b463ad95092cca86564b2
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 61
+   applicanttype_name: Admissions
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1797
+  fields: 
+   student_id: d6096c667706afb1013fe3bb46712dd0373f27ccbab40db18deadfa400475618
+   student_name_surname: 40e369353c08f64ff37918919706bfe62b793c200f996121d44bc43e65e449da
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 61
+   applicanttype_name: Admissions
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1798
+  fields: 
+   student_id: 0aaf5418197a224121f40d3181abcfffbe3acc80247c1ed3067efc1343805af6
+   student_name_surname: f7a40ae77887da0d9f241d4e42b4d2ba914d61d87d87449c4e41a62e082192ec
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 61
+   applicanttype_name: Admissions
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1799
+  fields: 
+   student_id: 6331c69711bb699ddc63a0a177dd21e13910c0406d5381c43b97a2f8f41d59af
+   student_name_surname: de447990585dd25323f82ddefffcee3fcaa56b286aa3c4d67ba155cd5353c142
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 61
+   applicanttype_name: Admissions
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1800
+  fields: 
+   student_id: d22377877c004d91e3d3f06f30aa8e8f059be6cb929e5d6361ed5a7e60533502
+   student_name_surname: 33e7e5de2fd52e969bf022fb0e0bfe1b6b48951170aeccb62bbda5183929be31
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 61
+   applicanttype_name: Admissions
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1801
+  fields: 
+   student_id: a8da21721d584a8838c3c8eaeecb32e009b752303a97d3021d5cf7578774a487
+   student_name_surname: ff5a83e59399d4acc2075b037a6880f15a3e13d674075f0c8e20b34deb140e52
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 61
+   applicanttype_name: Admissions
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1802
+  fields: 
+   student_id: faee4176882c60c8cd92b6d1fefe7e19681de24e10a03eae5a208ad0e49f533c
+   student_name_surname: 8e98b0107b8c3ec0f29271357846c17b40cb0007b4d3a669c3d7817430fa6cb3
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 61
+   applicanttype_name: Admissions
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1803
+  fields: 
+   student_id: 087eedc83df90dbc0b5e0e9f7e7ee5dd972b7a82618f558605fcb3f5fecf933e
+   student_name_surname: b65595c6ed6e8261ab7449135ebc074604449a3b922c42f4ea8c2808704dff43
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 61
+   applicanttype_name: Admissions
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1804
+  fields: 
+   student_id: 79ec412cca6c84bd355194efa7689262f1a203c29cfca0e4746d9bd6a46b21b8
+   student_name_surname: db07cbd4f2f0e68432709c6a48d2d7f2ce11d381944d9b8c26feaf2ae7d50664
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 61
+   applicanttype_name: Admissions
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1805
+  fields: 
+   student_id: ef192fc6182740307dc5effaec1368dcf1832a951409b3d9672016ca7cacbf27
+   student_name_surname: 8c2ab6a406da5028cbac31f1e529e03e7a0b0d4e2f8120c7143ee947d97acf4b
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 61
+   applicanttype_name: Admissions
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1806
+  fields: 
+   student_id: c5389052138ab580aa6faf91aa43ac9f97643886d4b7909c16d647a7dfa6030c
+   student_name_surname: 0b6280b0f1b7aca1dcb3369f4ae34bbbb0a31ec94bfd50d9090778d1f7efdf36
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 61
+   applicanttype_name: Admissions
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: คณิต-อังกฤษ
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1807
+  fields: 
+   student_id: ce707e08db99d768cdad3384fc38d815165b1e2683ec2e42911b710c5ee20101
+   student_name_surname: d327cf9f47d685d500f67a74dda2d8ab49aedd3f8774782319140370c81f53a9
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 61
+   applicanttype_name: Admissions
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1808
+  fields: 
+   student_id: 9f74ef5822fbd313c4a97466da51ec41b428c66b323dc20bf77f50d31f089c15
+   student_name_surname: ab9b05bd16b422cdd04cdf80311f27bcaab742384ed56666e7400b8e270ad289
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 61
+   applicanttype_name: Admissions
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1809
+  fields: 
+   student_id: 50fd8bc075de06ad200090036457a1a885e3e28ccb3ee29b8d46963496606df6
+   student_name_surname: 56f913c2752c44623755a47eb30feeb7b8771a5ade5139a187e55a63faca3f73
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 61
+   applicanttype_name: Admissions
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1810
+  fields: 
+   student_id: 3269658a717e2c87ba78e011be36c343b05e9ad3508a110d94e233865ac4058a
+   student_name_surname: 1008206d89b6a09e078411684bef48087867c4f83ed113f8dcf35c5ae3e95fc6
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 61
+   applicanttype_name: Admissions
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1811
+  fields: 
+   student_id: e82cf1bd8081f6b9318fc9136951be0be5ebf6fc5c356901d529a1400e9d2fd1
+   student_name_surname: 375f6cc7bce779d777ed43fc75e5b7e73972ee3555c49db4d4c5101176ca6bb7
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 61
+   applicanttype_name: Admissions
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1812
+  fields: 
+   student_id: 9ddb3ec658ec94ef7c02295bc92a86a9f0831727fd470d34666d306e86831f5b
+   student_name_surname: 05e0c32df4e4e722842e89f76c065417749638aa99dbb27780d5fdf250ee12da
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 61
+   applicanttype_name: Admissions
+   applicanttype_name_morespecific: TCAS รอบ 4
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1813
+  fields: 
+   student_id: 11bf30a7268fb4602efc82b76480a53c94fd36eb2a61e624df731ac223dd0f20
+   student_name_surname: 8e0e673b14aaa05e5860a260b9f043ca879f7a008158b2ef4fb1cfdb9c98b9d0
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6602
+   applicanttype_name: โครงการส่งเสริมโอลิมปิกวิชาการฯ สอวน. (ค่าย 2)
+   applicanttype_name_morespecific: โครงการส่งเสริมโอลิมปิกวิชาการฯ สอวน. (ค่าย 2)
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1814
+  fields: 
+   student_id: 144e7ed87140e6959802af3fa847063ccc48ca03b36cd8feecd268aed54cba8f
+   student_name_surname: 7b1b02e01281676510a16585d7e681eb41376f97c9cd066e6019f649c03d5b52
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 1
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1815
+  fields: 
+   student_id: 44ac0aee5fd2ad7feeca1fa5a7acc018d970943e54be156b18d4539407b15e35
+   student_name_surname: 43668128cddf7b14485910796661237bd4d0cee3aa346462993aad66ceba69ef
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 1
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1816
+  fields: 
+   student_id: 46d8f20e63b249ca5e0026901d0ec313da85a9decd1bbd6aa80e373f57d93793
+   student_name_surname: d625ff72b8e643f03ae9b568b4706480996a4e2322d6ece36559c74ebd4864a8
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 1
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1817
+  fields: 
+   student_id: 77d0173f9274d20b8cd82daf9c02cd24272fdd9a66ac79d9c1c299d1c4b0e509
+   student_name_surname: c35227644a068beba0796bb8fb9e1d799b5bdf6c4cc12293936b0ab876809495
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 1
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1818
+  fields: 
+   student_id: 00ad4a69d1c1a68903ece21c6603febdefdbcb476791ff8cc9680c7af292492c
+   student_name_surname: 60b92d0b5d615018baa001cff1f99f32b4f93fbd6ca56513e7e2685f3274cb6a
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 1
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1819
+  fields: 
+   student_id: e9cced7ec7d8283d5576d01c79683c280ec2256aedb64560d84eb3adaa7de3c2
+   student_name_surname: 170f9b1d52bdf9c67f4a6ee6fa5d48c859e3eb14467ec588312e9c2d71469b55
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 1
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1820
+  fields: 
+   student_id: ee60869e1afc43940fc1a4141aced5d74449161a1f4c63bbef31f14f110e47cc
+   student_name_surname: 8498f9cc10fc85210afe4ab00e873485317cb3d35d8145613bba4c1f8f0ecba7
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 1
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1821
+  fields: 
+   student_id: 213812be4cd2131bb4b993701c9de282a9bd78bd9302614a74456964ea63500d
+   student_name_surname: 8e86a103b8958b9a998a0abd77628d497edaaf05832708f0ce73ff0de3c962cc
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 1
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1822
+  fields: 
+   student_id: 48edcc019211217fbd9140d03240b435642ba7cf5750bee800dbdd47c3cc92e8
+   student_name_surname: 320a9dfc0d5ca229f0c1154e7a3d08f42838eefbd59d7bdb22bb254190690c15
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 1
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1823
+  fields: 
+   student_id: 94eb08c675b3737524c697e36c7e389771f23e01bf64bfeedbd2bf1b3675d6f3
+   student_name_surname: 26626bf294c7da41587eebbe5f82ee0bf6e3f4c5b614fe1492c64bc3ae894a19
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 1
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1824
+  fields: 
+   student_id: f52688163b8c0ac6759fc8062b1d39b3b10ecaaf2648a5c3f2674b60770486f9
+   student_name_surname: a215a4b81808a3cb25e37c793d733840a5f7a90ac8632aae72fd091dce3d7063
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 1
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1825
+  fields: 
+   student_id: c5dc34d99d70c3012bff4f082ab83f628f2c183c662c2b8dafcb08fccb0ce7b7
+   student_name_surname: 433cc9425f8b26fdc19ed79db27b6fa86111a1666fcae7aa7ae4064eed925f2a
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 1
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1826
+  fields: 
+   student_id: 9525b68d5b854c1e142a36c0cf377e3778fa3e777d9a89e3067542179d7869e8
+   student_name_surname: 80bacae5858314653c2b47dc986d83da7caaa62f2c21cc7e5e89549cd72badaf
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1827
+  fields: 
+   student_id: fa15396ab93fc39f83be7d56b6de42922e1c1cec77803cbdc75451a2e71deb3a
+   student_name_surname: 9e62364aff153161a99a95e8af90bb08b77b6e423b6f17bf6f2202e116af42fb
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1828
+  fields: 
+   student_id: 848b5510b1a3540c07d5d32b2f14b17f3f56affbb50bdf4cba512ccb5998ab44
+   student_name_surname: 3e20f1bc8f3ee08e4cbb9901141aa086f7a9e17539bb9adced45dad3aebfd11c
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1829
+  fields: 
+   student_id: 513b7a18cea436f5d76843b645d40a56b8c54686da7fc4e477955e11e5088b62
+   student_name_surname: 6ad81ae268d3e95ad73baac63f1fff3d82bdaf924736b3053fec2f96c8990c2b
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1830
+  fields: 
+   student_id: e3dda22919570cfdd25be127808eef0e1978f1765eaba6af5ec3351cc2509ce8
+   student_name_surname: ccbe4c2b0ceb435a05818647fcf1907badc25a0f7bb9c61d3a0a7ebfce69b67b
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1831
+  fields: 
+   student_id: a381b9ca7a5d1ec7661351bfc2e8c95e7718bdfb31b229cf7e048d415aced47f
+   student_name_surname: 2a155bd56a63f1a8ea97741c3a764d0b24bbcf2a32e6ec8465c7893bab35147c
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1832
+  fields: 
+   student_id: de7bf259e985837a691499a421e3ff91c79f7c2e303035b59d4fef5b149ea42f
+   student_name_surname: e75d5988abdc4f1053a24e9133530b57a2af71384cda24241d3b12a7d77225bb
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1833
+  fields: 
+   student_id: 4891b9a9fa2d50df2db8121b70fa60cb557dec9af20dbb0a69475ae53fbbe406
+   student_name_surname: c6d32f9c0f4c60a22e71af92bd77a6ca0e1a71a9dfcf5bed613ceb017267ad33
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1834
+  fields: 
+   student_id: 7c3758d97a86fe227fa77039cafe90fa562a4c0d7b38ff7156d627163eeeab06
+   student_name_surname: ffbc426e18ece57a06d96e65502770dac92a30702fe89bdc70da8e506af26887
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1835
+  fields: 
+   student_id: ecd5a1fec7a8ba4bdcc5474db3211938fc420626f1a314737ef2d68b3d315d27
+   student_name_surname: 76cc9f85e4c6fc5506a315b029066944460e292b9739cd72eb8daa247ed5b17e
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1836
+  fields: 
+   student_id: c6b5b064a747f0adfb02300339ec3de62138b325a87598da7fb95c1030f0d74b
+   student_name_surname: 14093be7881b76e88d0bf20083bdecbd537643984d53217507743cdfbbc2af39
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1837
+  fields: 
+   student_id: 341335b36351c9b0665fc9eea213e424203a7f8dbc70d850f6d9bf8e38d711c4
+   student_name_surname: f4c5098c930e73628a88e76d5b96be4ac8b4d9b5aea0cf5c136c37250054f7d4
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1838
+  fields: 
+   student_id: 6f0fff205d69185de29ed66c2fc5fde491d0089df449463d383087246298a84b
+   student_name_surname: 3468927bd6ca85187ff6b1d48d9612c6de6f370de22921a9ab535a019def440e
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1839
+  fields: 
+   student_id: c7faf48aa8beca0e7b8cac53e0cd7066d6ce0f1a8d11d4fe86f0ad6bbc88def6
+   student_name_surname: a32baa87a9a904c07dc9ae63e0c4ef3e045f38df1567f478384d29c8995ef5f9
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1840
+  fields: 
+   student_id: 98a317b9e9158df219831c615c15d0ebb0ea3eee68f75d8eea1ed91f8bbff09f
+   student_name_surname: be1824b1a68df4bfe12ef075fe61b0f56390d00c387ef2f14d6f750d5abcd348
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1841
+  fields: 
+   student_id: f646703789d1a5d4d351f0b6c5e3842aee222194c9090ffcab0418e0286a984e
+   student_name_surname: 2c11eb7b113d830a5a01483b2b6987a2aa7b47826f6d7b24b6b84f85cc14e379
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1842
+  fields: 
+   student_id: 16cfc00ba47a3b889ce7944e12f719d0c00346ed3f5273cd8f8437975705cf68
+   student_name_surname: 30a80048a8ed9f73b046f294a63c11739c43fa996095922d4c245a517b3296ac
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1843
+  fields: 
+   student_id: bc78839617285594cd7dcb1fc92f02c274b2352022e3228657c867872849a054
+   student_name_surname: cb00a75cca4087413b90b79ba83055586f4f954ed407dcec8b816bcaf999b4df
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1844
+  fields: 
+   student_id: 38e9d4a65082cc0604a9a2738f621d821ed970a08dd1cf42bec663c32d13b2fe
+   student_name_surname: 0cff964236c09fc9efae6b3545dd6caa8f1df27aaf4b7cd29f90859a7ff3b30d
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1845
+  fields: 
+   student_id: 88e06131f223b355710ce2daea7f28f4bff0c1e498daad002f3dcff70292da16
+   student_name_surname: 916e0500e3570ca78da94f94e6131ca9220eb5650c6026eb485d5b7112ce2918
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1846
+  fields: 
+   student_id: ddec81ba8949c3e4ceea84b9470bd78187967397cdb63441b97212c36b61f8b9
+   student_name_surname: bb2e6e3431143d8fa01b169a3d93ad17473855585887693c01458859055e4d98
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1847
+  fields: 
+   student_id: ac7637aba760db7c9631439b999337f8ac7e662e0580ad9ba96350beffe62d3a
+   student_name_surname: 2f7903315c23c6e155b5f6189c51329798464ae87285dd522f6cfe45f5fbf35f
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1848
+  fields: 
+   student_id: 29db2cc551017b347bff54cf53d1f9e506a25a31dd697426e59a48ee20b3dec4
+   student_name_surname: 2caf781b9b5a8d2c977337ac08f8d6768abfd1486877ee6677a4c54312fb565b
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1849
+  fields: 
+   student_id: 16ffe60bfd26edb07b1388a1f42337567f2dddf33a332e7a05e0eede61c4c7ee
+   student_name_surname: 6322a239b91a21a5f0d829cafa9d6d428d81d5d40c0a5394c159a855c3b36be4
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1850
+  fields: 
+   student_id: 612b366e6e1d2e55394e6e3b30ce993572da9360e0c5d50f90943949ad243117
+   student_name_surname: 87d7ff7b1dda553bc76bc6cab2ed20aa78b443e7a8646e832a551360ffb5a064
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1851
+  fields: 
+   student_id: 242e8b772ddda0751d5ae648bc6165fb73f3184bd1363babd8ef01ee4cb009a2
+   student_name_surname: d3538d47353dcdb459c7b8bc88c5d9038c3736c681ebbf4c279a11928a6be0dc
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1852
+  fields: 
+   student_id: eb08d35fb62ab006e2a75bc9f2f1f1eea9a861e7431639715699847cb5bbdb1f
+   student_name_surname: 27435762a998c2193759d0a04cd26152224686a2b177aea1d6fb8a3df3d0a5db
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1853
+  fields: 
+   student_id: 655589b28f5ecd74f360ea24039db4a9aadf1da5859e9410f9fc8b1a38b2e4b7
+   student_name_surname: d7da5efafe1bf7245d2147110ca18ca7fce9350066b39a27fbdbd58bd55933e8
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1854
+  fields: 
+   student_id: de93d6ed3a4072fae4a8bb80eacd4f3f3f4f52622f5b3eb932face2e7cec92c4
+   student_name_surname: 524e3e01d09a5f99347dd3616d490ee53f9e9e43a89fa8c3149dc40baa8f4012
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1855
+  fields: 
+   student_id: 1742ecae7c19f72bd9ac0faa047ccc63ec8a090163edd725037d587985332c60
+   student_name_surname: 56c3925d928f853bfd0709cef4aff5a64736565cdf575709791d22b9900a5425
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1856
+  fields: 
+   student_id: 2e4d3eed1c2b70694395fc68aa71f1c693a7450428ac1eabff1e608ebd43a347
+   student_name_surname: 7c6232bc07e74683f243fa354c446b27e021faed5137b21eeb266194da6a9e9b
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1857
+  fields: 
+   student_id: 9d4873e9b8d9721d44c5f18abf51bc0e68b03a6a98bf921306c557f222eaa799
+   student_name_surname: 0e644f2f5d49f272ea5b55844bd6e54e477e7c9cc948d4740272b0c4e9080194
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: คณิต-อังกฤษ
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1858
+  fields: 
+   student_id: ea82ad1229c2aa056bf792f9c1d4ea37e5afbe7ea525aaec0fa93de53be26ed6
+   student_name_surname: 78c1d02f6da5736d606ced36d348abb4f01bc954864974a2eba1afb4949caad2
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1859
+  fields: 
+   student_id: 203cf2858901512e923976fcad62fe8be4c1a7328a893f95f296af5851396b9f
+   student_name_surname: ac75dcc48cda5004472ecd1c117e01711d2c28d43f9e990040cee2515f24bed4
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1860
+  fields: 
+   student_id: b6803f950644fd3243da1ef96d49fd992bfcca1fb993f42f9b4ae95068b322b1
+   student_name_surname: 59a09a68d1fa521bc549ad6ea72a3f8b84d4f65578025ee1c8ca59791aa3414b
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1861
+  fields: 
+   student_id: 736a118aedc4bd62e87fdd5238d54ecd9241e67ecd36f066c4c0a8597c574a0e
+   student_name_surname: b1a42173bd32b98be78f49fe05a0e4dc64b0d2757c8ddf62c27c846178dfdc67
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1862
+  fields: 
+   student_id: ae6ab647a07eb485a572fff6c52ca260ff2e2535ab38d2a950dd32db69e28425
+   student_name_surname: c10b65bad3580ee85b4b85781618f3d445dc006d794aee0c13f14783b91d0f3f
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1863
+  fields: 
+   student_id: 5183c3d41734d7f4c6bb6c4e78f97787c735d7e5f143f29770e191301ccb25e2
+   student_name_surname: 217ae21f5000841165287d00a41c8bcf4dd8a7aee6e390d9d23195bc3e8da0b2
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1864
+  fields: 
+   student_id: b2db32ed56656c0f063825759aae5c43c0420e544224fcff9baf7922a969f317
+   student_name_surname: 81b43b68a54696afaef7bf3e438b0eca585c7591439d3c501979c2c092925fa2
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1865
+  fields: 
+   student_id: d08cbba813d7e93d925227669f54c3bd812a3f31350f95111511303f83dcdd8b
+   student_name_surname: ceaefa79743a530e6f2434a7d8b00fba89a96b8fcd9acd65ebd6078f59383951
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1866
+  fields: 
+   student_id: edf661c40cede6dc909397bbc438bff32b6d88c87a4166a0cdf503c044c19575
+   student_name_surname: 3b67b838bbeb234d5d909f050b759ae2de4e2ca20d538d681c7691b0ab0b504d
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1867
+  fields: 
+   student_id: 2a6ae326731e2a47fe567fd09d352a167292f44aaba9b2f2035d3acd39b790cf
+   student_name_surname: c972875ae91eaa12153dade0f809d09380be040fd558b44d88490aa35fcdb463
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1868
+  fields: 
+   student_id: 67915b20ab9b67359b02206b2123a60d1b57df7dc83285ed01411e274241acb5
+   student_name_surname: 41659bfd7b22b903db62939508279a01db7b130a9284999f23d0d7cf1d5164cf
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: คณิต-อังกฤษ
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1869
+  fields: 
+   student_id: 5aee608eec3f8b415fbce3682744af4e35c3e36ecbb2d1062109c1f9cb0e0583
+   student_name_surname: 77674105e22b15b292926ab207271b3d50ba881e93b3704c2466bb4994b9986d
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1870
+  fields: 
+   student_id: 3be0e56b5f33fb9b0d12bbe87303351dea5f4433fcb3a948a5bf3781980d8114
+   student_name_surname: 2cb1ffd184069d4e72f29d1e493180c66c866d7676535ee8c2574db38dc5e913
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: คณิต-อังกฤษ
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1871
+  fields: 
+   student_id: a13ce3bed23d7b2a8306ae4c03568f9a884f8b3ad0d34111f5ae6aaf532fffbd
+   student_name_surname: 774d0a0de0b9c866855aa7a8c14e9d078f37f6669cde04694f0d6566a583bc63
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1872
+  fields: 
+   student_id: a988210a21fb644742c02a5957557bc0c746e921c650b4928ad81d0b0260f1f2
+   student_name_surname: 33879e1cdfebc25aa795905a6c29d7721310218dbbaae4eea8b80330f1d1fc05
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1873
+  fields: 
+   student_id: 1dd1d86f297bfe8be71ba8600cb2bff6bd2cd428536ea2c60e95c00220775a64
+   student_name_surname: 1c6955379ec8ab6001c6bdc6258c3c5645a30658652e008447c858be8ccac312
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1874
+  fields: 
+   student_id: 02885b29e7c743aa74e033408e5fc766f3772a408fc15e8ebc82c71392b7fd59
+   student_name_surname: 48117f13821d4a160eacb32c1620ba0d55267dca32e17e63d34df4b04fd00542
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1875
+  fields: 
+   student_id: fa983931f1e9b05033d40065c591f22c886e059569cc224cc02426721edb93ed
+   student_name_surname: db20d548f03d94cf23147289b3266fcf550114282bd072c8395f07e981fc9d50
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: คณิต-อังกฤษ
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1876
+  fields: 
+   student_id: 0f180355bced630f3fcc6d43c9fd8f3d4102975975d8d206a69b9a16ef17a50b
+   student_name_surname: 49ade7389ec6ee12766a1a5c308297d68a0fbe266f306e7a95fec87e42bb0d8e
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1877
+  fields: 
+   student_id: 4ddae35fa7769ec8eed98ce5e8d2ac998ab208ef4a7447cb2b04f75ff4e89233
+   student_name_surname: 26d7a1119d2355c4b3cd66998dc305659c329a19414ca86d01d62b91d7abc6f5
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1878
+  fields: 
+   student_id: cc586570adfbe6401d6aaa646a86de4a49009c8f8080212f574b76543c79f217
+   student_name_surname: 633646299ab53bef6fec8a3b4be65aeac900fd404018855a2a46634d77218e55
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1879
+  fields: 
+   student_id: 05fc463e3e75f405f7eb2935c6e8face9685ff086bd68309ca46120324266cad
+   student_name_surname: 734349dc2fd0e747192d8df76f23ba38bf48d007478f2191f2356a2c83263b9d
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1880
+  fields: 
+   student_id: e5c93835de4633cb6e317ce1728b68e16ed4a87ad4d5a2f670c0a1c3d23ac949
+   student_name_surname: 1eb201b998358708e935af874721c317ec19c5e1189d497b4a4a1fdcd72c9238
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1881
+  fields: 
+   student_id: 0c01db248f82a22fd7ee3996b069fa881933839cc44fd57150fb62275519bfd6
+   student_name_surname: a8db0b4f52d80a766730cc35b75877fc9d6d7dfe490749790ae0c19d670aad9f
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1882
+  fields: 
+   student_id: 882e7fdf0f21327894b096319d31fa1da30b149638add9a50f5d248174c7e29c
+   student_name_surname: e43fb86d499e4a36aff607a8aa1debb36d896e7db125ba27c39c52041592bb2a
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1883
+  fields: 
+   student_id: 239b446f32cd045ab511dc94ad3404eb8b99a2fd2f72192ee3998c10fb659789
+   student_name_surname: 14657566f291f817bfbe5b34deb93b6100e1f9d451d1ce164911837510afae7b
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: คณิต-อังกฤษ
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1884
+  fields: 
+   student_id: 825a00b5ef89cd82e072f760cbdebc1ba362abcc9f573e42f98deef35fe36818
+   student_name_surname: 4e56e10b6386c6fb66e880fe9ef92aca7e3e69c48a2dc9576d49fa3ec7e24e34
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1885
+  fields: 
+   student_id: 4af597fd54965f44d2a65a584c1eaff058481dedfd2c3e9ac0117d7d2eb57a54
+   student_name_surname: 46b1e621f0e2427f10f56c3067168ceb48df047f2cb3e10055ca4600dbb020dd
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1886
+  fields: 
+   student_id: 5ba121d309cbb15add105a6467d259cc613a550ba7800511a17371d1a364fc27
+   student_name_surname: 470a661f825692a3641a7c6de41f5f8f0713547e653af977f7076d88e6a22ca2
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1887
+  fields: 
+   student_id: e5baac443ecbc8ece6d0f234c1907bd7c8c4c0aacfadbcb946da59ca2cf40f13
+   student_name_surname: 03fb885a65e0c982028359538c95bc6b7e62a8ad546ede0050b5f626d44debb0
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1888
+  fields: 
+   student_id: c5402a588a7f9492e7387e14b32d49b182ad401f30afed2eaba7d0676fd2a5f8
+   student_name_surname: c3ccbf10b1b7e1fc7176d25206c50f5e4449da61ce38bf7da198f3356598f324
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1889
+  fields: 
+   student_id: aa54ea8d21f9f750918472fb35c203e6a0e41bc46408606a2f5be3b6e67e9ac0
+   student_name_surname: 65523bfc6cfecb978d133dbcbf3e50e01ef10d978ae1f96e350bd456df480e5b
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1890
+  fields: 
+   student_id: 2a361b6d7fb293b7a41e43dc40d472e1d5926f7ab4a30fcb88ab99e1aa367fc7
+   student_name_surname: 9eb5d09aa83bf023fcc6d35408ef7e076bf7014a85b01199e176ea24612b82b2
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1891
+  fields: 
+   student_id: fcd741f56aa7765ef36bc0c6c253ea6da7946dc219802cf1146f596f3475c977
+   student_name_surname: b8ffc609755da857bfc6b5f37e0bdb41d465de4708c64734dd9dc95343ac9377
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1892
+  fields: 
+   student_id: 1406850756116755f7e647fbc96d476a45440a4331f36af827d8e9d08c8038eb
+   student_name_surname: e747092f76a40a9947b444d7f42e004011dac284ad808b424f7bb1f1209ff17f
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1893
+  fields: 
+   student_id: 911bde76eeefc1237fe633457e774538df07b8b9c0f2bbc9abe0c14a08a38e98
+   student_name_surname: ac2e2d5ef6050fc02ce1a9f342cd23edadd685981d2a79877a51156be11db3e9
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1894
+  fields: 
+   student_id: 96bdcc2d3c7af1ceb87f11db377edbedce5ad65bb575b3c23670aa3787512bc8
+   student_name_surname: f6fec9de59db9180b70225ac0db72bf04743cebaeac248cba3f6bc3da7e2b995
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1895
+  fields: 
+   student_id: 401c4dd0ad8a006dc16b6efbbea014fa08b17a9f63a932d72bf6cd6fa0ed0c56
+   student_name_surname: 2039ddb386f46c5549d5da2364fa403b8358297b1091c7f71321f2d3c86a7c42
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1896
+  fields: 
+   student_id: 95c3fccb9c5b36a8c6160d9c3ab3d27f0453dc0e06f510e071f9e22463e80742
+   student_name_surname: 0bfbe10ed42f6f7c080e3b1cf03dbbad50c9fbeea40020e730f582ffd5bd2669
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: คณิต-อังกฤษ
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1897
+  fields: 
+   student_id: 0235b10f9658cd1d5acbd858f5fb29a8e49c21974aeefea4af4a321ad987fa9b
+   student_name_surname: 03e242c2117119801991e2a2275c49d94aae88be58c7813c7f4f14d0c822ad69
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1898
+  fields: 
+   student_id: 928ce66c3913899f1b656962fa3d7f6f9171f9f484b6ca8b807162083ab84c9c
+   student_name_surname: 8956df17bb287553c33e391a3bbca72e4a1afd18b06f7d325f8afc6e41a7283f
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: คณิต-อังกฤษ
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1899
+  fields: 
+   student_id: 7c5c751470b883851615937e51fcd07dbe8ba2447484f336a2ac326f1f0771a5
+   student_name_surname: 7d5e5676b9aab9b6ebe5b34ca937880841ac6c1e4fc2fcffaed50a386ad02a94
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1900
+  fields: 
+   student_id: 3db79267f98638e703c97b1c5698a7093555db5dec0728c0b1e481abc3db5d8c
+   student_name_surname: c2fcd39a02d3237aa53ae8f922f4141d779b45b31eacd444332ed48062d9e947
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: คณิต-อังกฤษ
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1901
+  fields: 
+   student_id: 113c1065eff6b3450766814ec0b2f14f28bb3b16cc2a79939e7bec82d1c09245
+   student_name_surname: 1e94353765b8a836e7053fba916f87f33b8947054c4c809217868c850dadc02e
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1902
+  fields: 
+   student_id: c1b6232a169b594c88b1cf399ad144b23272b5291f8af5d7e160f878830204ed
+   student_name_surname: f7181540061f3ac78b802116319e022bef21e9994423b82cbb4abdc4e73b1991
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1903
+  fields: 
+   student_id: 03b22472f294c8772db5fd745b5e8cccba6b6cf46632d623b3f413d66aae0fec
+   student_name_surname: 90f25756a1af2ecb00829782824f7752340df572b06ff25f4053049ee83d19df
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: คณิต-อังกฤษ
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1904
+  fields: 
+   student_id: 83771f699a4c67e28464f24c6425f4ca05aad2e34b00065c7eb357af7788eb57
+   student_name_surname: 96bf7b06dbcaca02bad40b393cfc0e13d31299102c5524f248a2598596adf16d
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1905
+  fields: 
+   student_id: 984a2d1fb7d30910a873ece109d508d9877445964020312a006a166d0a4e5874
+   student_name_surname: ce53bf22a7b7de3baceb30adb2d730268f2b88c3cc5183ea62350adb5396a10d
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1906
+  fields: 
+   student_id: 5c809bf2d2011867eece20b08514a90cf3cde30962aa7bb49615d5c1fd693886
+   student_name_surname: fd558d5c46ef94be159e44e9430181509e5e99ab13501c3c38b78e37a050c052
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1907
+  fields: 
+   student_id: 471a25eda267b106de1b6373665bf257b48dd428937756ad16e66d17c1059d40
+   student_name_surname: 7ce8af36636d6cc3e067b4a56f770e0f2da3a24c3e62b1f666c4903d79caa88d
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1908
+  fields: 
+   student_id: 74b17fc08dd3484a8ca59659db6a7e10b7e5af88273197e9f388a75b32010fd3
+   student_name_surname: 62b41b5e803a832289f8a84c58036e973803705a524e191a0c5010124c9a9ee1
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: คณิต-อังกฤษ
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1909
+  fields: 
+   student_id: 5e66a2c7802dcd3025fc1fed1e972b9a4230e7399b3b93094022b9eccda2493f
+   student_name_surname: 522e279ca62a22b93a09733a08f57b8e2d0799410955e727e4a8dce1a97c7e1f
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: คณิต-อังกฤษ
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1910
+  fields: 
+   student_id: d59c0134afd6dda35ac6251f25c3e98e8b94cc2db57a3bd481249941909b3ce4
+   student_name_surname: c6d12f6b08316084e78a11e2d28469d32fd54994aa278f96341710c7a25509a2
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1911
+  fields: 
+   student_id: a48a4a07c3ef46c54baaf45086efb156f15ece24c8092b6714e33eadb390a617
+   student_name_surname: 293a315994551c832a24a37c1a1fbcbe30546fcd8d7cf5fb758ff5ebb90f2495
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: คณิต-อังกฤษ
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1912
+  fields: 
+   student_id: 0d5d63c39ba7e60b29e05519d3b32e5ad3f1610ff6a336b0d899bc59e704800f
+   student_name_surname: 4888d734470bdab44ced7653c0b9117b76f86acc214b703d864136aba82fec8b
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: คณิต-อังกฤษ
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1913
+  fields: 
+   student_id: d219873cd55529f04ab7f2aaa436b2a9f8992ba14bb6612ac585d44795e92f88
+   student_name_surname: efe79f463d83259e7a73311078adbdf6d47c8be5d456ea6aeb7b91719b88009a
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1914
+  fields: 
+   student_id: 9dac733029dd02414bc0c5d3bd7bc68c864666a3a3d5dc9c926a2c88347c87c2
+   student_name_surname: 2927075f6aed019471a9276179107800958ff2a4707fdab86df127b99cd7633f
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1915
+  fields: 
+   student_id: 45da02ee41001036f8e185252db22b4249ffdf6d55bc07fb5a82767596276ae2
+   student_name_surname: cdc9daa40eb88c825381cd192aa43bc3a57347a36712668062bd5627a5ac4739
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1916
+  fields: 
+   student_id: 648a9bad9e08342f0e441098bc6a3c7872f2e52976619874ae48d9a5ee9c88d2
+   student_name_surname: 820748842d7287082613a47d2166129f6b8c0422e02efb0ddc8f2d6eb864fa76
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1917
+  fields: 
+   student_id: 3ab110b31be25c8f3d1121a20380d0966e8a6b35b39e346c6a4dcc45610382b0
+   student_name_surname: 0b5178016bfea139f7aca98b1e1c0975bdd0e16d74e90f0583e395da1af02a27
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1918
+  fields: 
+   student_id: 2827d651d3f3686fd5969fa03cb11ed6ffe475b86215a38a7e0199285e5c5842
+   student_name_surname: bf8124f61ac34af71e9c6bdd4b954f9572b2fbfe58592ebcf812c60530682562
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1919
+  fields: 
+   student_id: 8b2204e05eadf12bd78e737333334ad7cd55c514d4a9a075dd8decb1f8abac9a
+   student_name_surname: 7ac736bce94ca21896ee0b6f3badfb16fd73c401c5bb7f0a2794490f28c269f1
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1920
+  fields: 
+   student_id: e165b57533a2e4ef62a218f1060742543a84373b0fd9638bfab6a2d270a73032
+   student_name_surname: cb587c9e97570423e301c6f03dc7441a4a7788f6f954d7a5e02df4da5c0430b5
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: คณิต-อังกฤษ
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1921
+  fields: 
+   student_id: 20e7d4e4e4a55bcc41189da465c17a0d06efca0d3cd9beb764e02c58c766053e
+   student_name_surname: dd42fa14136607d623e9fb480aad06083d6ecc51c322cb2d868cea0c50cf8655
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: คณิต-อังกฤษ
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1922
+  fields: 
+   student_id: 586873b7517a99459f6af47b55855d161e0707112416b7a5dca53d188d94f65e
+   student_name_surname: 6e59c73b8ad051332b2062f9833d64de148d71063441e983786d850ff8a486bb
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1923
+  fields: 
+   student_id: fbb3396b35f897549c5d7d9a0e3e1dd2b2cd3752fbb58e441cc1fc7c51a3c54a
+   student_name_surname: 5bc778326a3f5de69278377c5b25cb75499b8dc171435d1f3bfe3cb169915615
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1924
+  fields: 
+   student_id: 30f6097160e84481b8c791273835a10e646515109ef1ea10deecbce8aae396a6
+   student_name_surname: cf3cce418852df9d917a2deaa8349d66cfe402fd5e51e04a546289e174162b67
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1925
+  fields: 
+   student_id: 36dc3b17841afddbff3329dfdb79e71b344a1e79e9251e45a1d07eae41f734aa
+   student_name_surname: 14d043c5b6b167ea53c89b06d36c375207342ccc09c015d76fbc4a4c6fb67075
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1926
+  fields: 
+   student_id: 25e09f45f85e5bd08b40e75a0705e864d79844207e627014e7dec8e721381788
+   student_name_surname: d64786f32e3e0e14daf991170aa539506b10dafa210a56176854fa6952bcbe28
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1927
+  fields: 
+   student_id: b8897eaa5cfe08a128dd4ec7f8a86121fc3a17aad51d87d009217bc50db52471
+   student_name_surname: 54aad0822ef790060abc318b4b1723f185b8461fae256916780311a73d682580
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1928
+  fields: 
+   student_id: 86cddd7a0cba5524f8ef69a340d01840e6aca62ebe01821aba59491e7750e368
+   student_name_surname: 0504922b242333541987857f6f26120ebf1958bd876cab55b2b6a6825cae0eae
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1929
+  fields: 
+   student_id: 2b78ed4462a0ec3481e580970fafbd76305f306e1c44f2e1ba7b22264284a254
+   student_name_surname: cebc474f197021df730865bc4e9d4fe91f92540dd80e39aa64850a142b995165
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1930
+  fields: 
+   student_id: 660963658bcf7dfc851260cac19dfe8b681df3e59d64df850f1788d9ae7195c9
+   student_name_surname: 9aff0fe68f059c7b95624667896224e371b94407d647d3d2197b5e62e4e0c70d
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1931
+  fields: 
+   student_id: 6f1b57a458ebcf55fad5e88fbac9b4339b74f1705cdd96429707832b52e2212a
+   student_name_surname: abb366f7f9f94c428607f3f3839eab97826978edf1e003f4db0d7a270c6de2aa
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1932
+  fields: 
+   student_id: cfe7ab3d051aeec26fe8063758458be06c886dbde0e88db7b706b80182fd798c
+   student_name_surname: 0228bc0beaf88cb9171ba8808846db556ea9b68ef08621a46f85d4f0796e626b
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1933
+  fields: 
+   student_id: 70970ed2778a20a6de138993633a9409d250b0c3857810303aec0891f220e047
+   student_name_surname: e396e0078572bde329c00642157a786e00beea8b20af407fa4e75ec0433c50e6
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: คณิต-อังกฤษ
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1934
+  fields: 
+   student_id: ec7573dc6ac419083f79eb79ea4a53cda9d1caa60874f363bab2bd6fd9c23fdd
+   student_name_surname: d2cbef550eb60d56f95d445ba6abdd432e4172e5e23f7a38c43b0ef39331ece2
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1935
+  fields: 
+   student_id: 1f773238d721022463ee67b5f08a062b5b737542ea0d589a92c8889bb4354d72
+   student_name_surname: 20d7b7ab8a06e77018e7ffa1f356e23a952cdde18f6b02e71892f724544a774c
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1936
+  fields: 
+   student_id: 4edc2b0c31def0974e830434472abe3530eb41830a868a976a46afe38bd0a5fb
+   student_name_surname: 1ec72cb90d14706e3b144ce5e37b3a09ff2fdc449e07174d518bee644f041d47
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1937
+  fields: 
+   student_id: afc05f10090a57219d4da4132c7e8ed8f4ad8166ed409203743bc0cb7faf2663
+   student_name_surname: 9e3f0c5e7a00eeb47e9e65becff03ada61e40fcf55e088918752c1597f22aef6
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1938
+  fields: 
+   student_id: a63569d65a7f73dec855574767a7b4c118e0a40accc5c37c5365251b9c663edf
+   student_name_surname: 6fcf545f4789694abe55cd1af3f80db18dc8da33edb007b87ded4a1709c76f44
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: คณิต-อังกฤษ
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1939
+  fields: 
+   student_id: 99438b5c51f381c0b6651ae5f318cadde2e49a2163817ed184b6081748d52000
+   student_name_surname: 3bc204cd7ed812f6ebe34a44413daaaff7359c8402d11b9fe3377e6dbe78cbc4
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1940
+  fields: 
+   student_id: 59ca813e1317cc8ab52087571ea64b3ec4b0ddc1b108f70f2f91cbee8d169a86
+   student_name_surname: ab9770ee549f9526ef5a78f4f6e0cb51f53623cb1260bd2517acf8e282426700
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: คณิต-อังกฤษ
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1941
+  fields: 
+   student_id: 08a0fcb3196402e523b491a1d3e28cdb87b9b9f37c030518f204f54d5904fc19
+   student_name_surname: 59fe1871af7a77109dcb56d7590d6a43b0c3f366aa146392fa0e8ad435d2f24d
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
+
+- model: academicis_app.Student
+  pk: 1942
+  fields: 
+   student_id: 14deeedece956e8bce2f81d13114369a2a08a31fa3dbd6450a672ce0f7c0af94
+   student_name_surname: 174ea2613fe43c814a969a031e3a86243ec097abc81ee37782206a880ede244d
+   level: ปริญญาตรี โครงการปกติ
+   admitacad_year: 2563
+   applicanttype_id: 6801
+   applicanttype_name: โครงการรับตรง
+   applicanttype_name_morespecific: TCAS รอบ 3
+   student_highschool_study_plan: วิทย์-คณิต
+   student_highschool: 
+   student_highschool_gpa: 
