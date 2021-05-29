@@ -20,17 +20,19 @@
                     {% csrf_token %}
                     <hr>
                     <label for="fileLabel">ไฟล์ที่เลือก : </label>&nbsp;&nbsp;
-                    <input type="text" value="{{file}}" disabled><br>
+                    <input type="text" value="{{file}}" disabled><br>&nbsp;&nbsp;
                     <input type="hidden" name="fileDB" value="{{data}}">
-                    <input type="radio" name="choice" value="student" checked> ตารางนักศึกษา&nbsp;&nbsp;
-                    <input type="radio" name="choice" value="enrollment"> ตารางการลงทะเบียน&nbsp;&nbsp;
-                    <input type="radio" name="choice" value="grade"> ตาราง GPA&nbsp;&nbsp;
-                    <!-- <input type="radio" name="choice" value="status"> ตารางสถานะนักศึกษา -->
-                    <input type="radio" name="choice" value="state"> ตารางสถานภาพนักศึกษา&nbsp;&nbsp;
-                    <input type="radio" name="choice" value="course"> ตารางรายวิชา&nbsp;&nbsp;
-                    <input type="radio" name="choice" value="appType"> ตารางช่องทางเข้าศึกษา&nbsp;
-                    <input type="radio" name="choice" value="plan"> ตารางแผนการรับ&nbsp;&nbsp;
-                    <button class="btn btn-outline-success" style="text-align: right;" type="submit" name="btn" value="upload">อัปโหลด</button>&nbsp;&nbsp;
+                    <label>ประเภทข้อมูล : </label>&nbsp;&nbsp;
+                    <select class="custom-select" name="choice" style="width: 20%;">
+                        <option value="student">ข้อมูลนักศึกษา</option>
+                        <option value="enrollment">ข้อมูลการลงทะเบียน</option>
+                        <option value="grade">ข้อมูล GPA</option>
+                        <option value="state">ข้อมูลนักศึกษาสถานะไม่ปกติ</option>
+                        <option value="course">ข้อมูลรายวิชา</option>
+                        <option value="appType">ข้อมูลช่องทางการเข้าศึกษา</option>
+                        <option value="plan">ข้อมูลแผนการรับข้านักศึกษา</option>
+                    </select>&nbsp;&nbsp;&nbsp;
+                    <button class="btn btn-outline-success" style="text-align: right;" type="submit" name="btn" value="upload">อัปโหลด</button>&nbsp;
                     <button class="btn btn-outline-danger" style="text-align: right;" type="submit" name="btn" value="cancel">ยกเลิก</button>
                 </form> 
                 <br>
