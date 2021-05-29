@@ -33,13 +33,6 @@ from .forms import SearchForm
 
 @login_required
 def homepage(request):
-    # username = "p"
-    # if request.method == 'POST':
-    #     username = request.POST.get['next',None]
-        
-    # print(request.user.username)
-    # x = json.dumps(username)
-    # print(x)
     return render(request, 'academicis_app/page_home.html')
 
 def basic(request):
@@ -203,13 +196,6 @@ def check_data(request):
                 else:
                     messages.error(request, "ข้อมูลไม่ถูกต้อง") 
                     return redirect('/academicis/uploadfile')
-            # elif 'status' in choice:
-            #     if ((data_head[0] == "\ufeffstudent_id" or data_head[0] == "student_id") and data_head[1] == "student_name_surname" and data_head[2] == "semester" and data_head[3] == "academic_year" and 
-            #         data_head[4] == "status" and data_head[5] == "grade\r\n"):
-            #         return data_status(request, files)
-            #     else:
-            #         messages.error(request, "ข้อมูลไม่ถูกต้อง") 
-            #         return redirect('/academicis/uploadfile')
             elif 'state' in choice:
                 if ((data_head[0] == "\ufeffstudent_id" or data_head[0] == "student_id") and data_head[1] == "student_name_surname" and data_head[2] == "state_not_normal" and data_head[3] == "grade\r\n"):
                     return data_state(request, files)
@@ -245,8 +231,6 @@ def confirm_file(request):
             return confirm_uploadEnrollment(request)
         elif 'Grade' in name:
             return confirm_uploadGrade(request)
-        # elif 'Status' in name:
-        #     return confirm_uploadStatus(request)
         elif 'State' in name:
             return confirm_uploadState(request)
         elif 'Course' in name:
@@ -320,6 +304,7 @@ def confirm_uploadStudent(request):
         messages.success(request, "อัพโหลดไฟล์เข้าตาราง \"Student\" สำเร็จ " + str(item) + " รายการ")
         process_basic()
         process_plan()
+        student_Inactive()
         tz = pytz.timezone('Asia/Bangkok')
         date = datetime.datetime.now(tz=tz)
         History.objects.create(time=date.strftime("%d/%m/") + str(date.year+543) + " " + date.strftime("%H:%M"), name=request.user.username, activity="อัพโหลดไฟล์ข้อมูลนักศึกษา")
